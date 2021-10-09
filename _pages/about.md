@@ -5,6 +5,6 @@ description:
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+## Resume goes here.
 
-Resume goes here.
+This is my resumé.
