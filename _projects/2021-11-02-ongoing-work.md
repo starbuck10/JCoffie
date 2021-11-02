@@ -6,9 +6,9 @@ description: This is my journey to captaining an ocean going sailing vessel.
 featured_image: '/images/demo/demo-landscape.jpg'
 ---
 
-## Ongoing Project: Ocean Sailing
+## The Goal
 
-The Goal: I love sailing.  And I have a personal goal to own a blue-water sailboat that I can travel the World on.  Who doesn't have that goal, right?  Anyway, I've been working my way through certifications and hands-on experience to make the goal a reality.  Let's see how it's going!
+I love sailing.  And I have a personal goal to own a blue-water sailboat that I can travel the World on.  Who doesn't have that goal, right?  Anyway, I've been working my way through certifications and hands-on experience to make the goal a reality.  Let's see how it's going!
 
 ---
 
