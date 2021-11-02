@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post Review: Sudan's Failed Coup shows why Military Reform is a Must'
 date: 2021-09-23 00:00:00
-description:
+description: 'Blog Post Review'
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
