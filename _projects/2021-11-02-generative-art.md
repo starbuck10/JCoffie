@@ -1,5 +1,5 @@
 ---
-title: 'Creative Code'
+title: 'Creative Coding'
 subtitle: 'Expression through code'
 date: 2021-11-02 12:00:00
 description: Learning how to leverage code to create art.
