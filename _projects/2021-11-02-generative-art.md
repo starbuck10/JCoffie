@@ -1,5 +1,5 @@
 ---
-title: 'Creative Code'
+title: 'Project: Creative Code'
 subtitle: 'Expression with technology'
 date: 2021-11-02 12:00:00
 description: Learning how to leverage code to generate art.
