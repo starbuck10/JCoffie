@@ -24,7 +24,7 @@ With all of that out of the way, let's take a look at some projects!
 
 Need to put an iframe in here to host p5js work.
 
-<iframe style="width: 640px; height: 360px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/starbuck10/embed/0YfAh_Bep"></iframe>
+<iframe style="width: 792px; height: 1008px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/starbuck10/embed/0YfAh_Bep"></iframe>
 
 ---
 
