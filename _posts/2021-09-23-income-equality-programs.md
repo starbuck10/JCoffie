@@ -2,9 +2,11 @@
 title: 'Sudan's Failed Coup shows why Military Reform is a Must'
 subtitle: 'Blog Post Review'
 date: 2021-09-23 00:00:00
-description: 
+description:
 featured_image: '/images/demo/demo-square.jpg'
 ---
+
+![My image Name](/images/demo/demo-landscape.jpg)
 
 ## Exploring income equality programs
 

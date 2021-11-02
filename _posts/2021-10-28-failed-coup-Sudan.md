@@ -6,6 +6,8 @@ description:
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
+![My image Name](/images/demo/demo-landscape.jpg)
+
 ## Understanding why Sudan's Failed Coup Shows why Military Reform is a Must
 
 After reading <a href = "https://www.atlanticcouncil.org/blogs/africasource/sudans-failed-coup-shows-why-military-reform-is-a-must/">this article</a> from the Atlantic Council, I had a few thoughts I wanted to share.
