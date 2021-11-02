@@ -1,18 +1,16 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+title: 'Creative Code'
+subtitle: 'Expression through code'
+date: 2021-11-02 12:00:00
+description: Learning how to use code to create generative art.
+featured_image: '/images/demo/solarSystem.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/solarSystem.png)
 
-## Demo content
+## Generative Code
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+As a portion of my Graduate studies at CU Boulder, I've been introduced to and playing around with generative art, learning how to use code to create visualizations, filters, and media that invokes thought and reflection.
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
