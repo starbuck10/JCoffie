@@ -22,14 +22,15 @@ With all of that out of the way, let's take a look at some projects!
 
 ---
 
-** Think Outside the Fox **
+## Think Outside the Fox
+
 
 <iframe style="width: 792px; height: 1008px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/starbuck10/embed/0YfAh_Bep"></iframe>
 
 This coding project uses a variety of shapes and colors to create a a geometric fox with random eye color changes and mouse triggered laser eyes with galactic background.  The inspiration behind this project comes from my love of animals and encourages the viewer to take a different approach to their own internal problem solving.
 ---
 
-** Solar System Perspective **
+## Solar System Perspective
 
 <iframe style="width: 945px; height: 720px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/starbuck10/embed/BAiPwQ1SZ"></iframe>
 
