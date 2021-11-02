@@ -24,17 +24,17 @@ So here's the goal: take the courses and gain the experience I need to become a 
 
 ---
 
-## Step 1: ASA101
+## Step 1 ASA103
 
 Talk about ASA101
 
 ---
 
-## Step 2: ASA103
+## Step 2 ASA 103
 
 Talk about ASA103
----
 
+---
 ## Step 3: Buy a boat and rack up the hours!
 
 Talk about buying our MacGregor
