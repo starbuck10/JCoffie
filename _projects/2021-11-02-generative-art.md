@@ -32,7 +32,7 @@ Scaled model of solar system that demonstrates the relative size of planets and 
 
 ## Generative Alien Code
 
-<iframe src="https://preview.p5js.org/starbuck10/embed/UnN1LHApl"></iframe>
+<iframe style= "width: 600px; height: 400px; overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/embed/UnN1LHApl"></iframe>
 
 Alien language code generator - inspiration comes from Stargate and the random "alien code" generated on screen that has to be translated and interfaced with - uses random characters from the Navajo unicode database.
 
@@ -40,7 +40,7 @@ Alien language code generator - inspiration comes from Stargate and the random "
 
 ## Colorado City Populations
 
-<iframe src="https://preview.p5js.org/starbuck10/embed/iriiB_GBJ"></iframe>
+<iframe style= "width: 800px; height: 500px; overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/embed/iriiB_GBJ"></iframe>
 
 Visualization of city locations in Colorado: the borders are latitude and longitude lines. The four borders are at 37°N, 41°N, -102°03'W, and -109°03'W.
 
@@ -48,6 +48,6 @@ Visualization of city locations in Colorado: the borders are latitude and longit
 
 ## Webcam Filter
 
-<iframe src="https://preview.p5js.org/starbuck10/embed/Wo_rEGXu2"></iframe>
+<iframe style= "width: 720px; height: 400px; overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/embed/Wo_rEGXu2"></iframe>
 
 Simple webcam capture with filter applied for feedback.
