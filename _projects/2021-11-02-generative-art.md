@@ -31,6 +31,6 @@ With all of that out of the way, let's take a look at some projects!
 
 ## Solar System Perspective
 
-<iframe style="width: 1096px; height: 1096px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/starbuck10/embed/BAiPwQ1SZ"></iframe>
+<iframe style="width: 865px; height: 1096px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/starbuck10/embed/BAiPwQ1SZ"></iframe>
 
 <br>Scaled model of solar system that demonstrates the relative size of planets and their rotation speed (sped up for illustration but scaled, nevertheless).  This piece puts the viewer in a position of awe as they see their insignificance in our own small Solar System.</br>
