@@ -26,7 +26,7 @@ With all of that out of the way, let's take a look at some projects!
 
 <iframe style= "width: 945px; height: 720px; overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/embed/BAiPwQ1SZ"></iframe>
 
-Scaled model of solar system that demonstrates the relative size of planets and their rotation speed (sped up for illustration but scaled, nevertheless).  This piece puts the viewer in a position of awe as they see their insignificance in our own small Solar System.
+Scaled model of solar system that demonstrates the relative size of planets and their rotation speed (sped up for illustration but scaled, nevertheless).  This piece puts the viewer in a position of awe as they see their insignificance in our own small Solar System, especially in contrast with the relative size of our small sun.
 
 ---
 
