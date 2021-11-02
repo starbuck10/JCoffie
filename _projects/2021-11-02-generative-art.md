@@ -2,11 +2,11 @@
 title: 'Creative Code'
 subtitle: 'Expression through code'
 date: 2021-11-02 12:00:00
-description: Learning how to use code to create generative art.
-featured_image: '/images/demo/solarSystem.png'
+description: Learning how to leverage code to create art.
+featured_image: '/images/demo/solarSystem.jpg'
 ---
 
-![](/images/solarSystem.png)
+![](/images/solarSystem.jpg)
 
 ## Generative Code
 
