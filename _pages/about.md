@@ -5,7 +5,7 @@ description:
 featured_image: /images/demo/about.jpg
 ---
 
-## About ME
+## About Me
 
 Joshua is the owner and President of Vigeo Construction and Consulting and also operates in the Chairman of the Board capacity. Joshua is a graduate of the United States Military Academy at West Point and is currently a Master's student at CU Boulder's ATLAS Social Impact program, focusing on Global Development Policy and Entrepreneurship. He spends his time consulting fellow businessmen and classmates on their startup opportunities, as well as serving in other board capacities across Colorado. His passion for people and the environment is evident in his work and when he's not in the office or at school, you'll more than likely find him on the water, channeling the wind and pursuing the horizon by sail.
 
