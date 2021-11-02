@@ -20,6 +20,8 @@ Last year my brother and my mother gifted me with something that I never would h
 * Giving me an outlet for simplicity to help work through life's issues
 * Generating a goal that could last a lifetime
 
+I quickly signed up for the next course before my current one was complete and now I find myself wondering how to make this hobby a workable lifestyle for myself and my family.
+
 So here's the goal: take the courses and gain the experience I need to become a full-blown ocean sailing Captain and take my family around the globe.  
 
 ---
