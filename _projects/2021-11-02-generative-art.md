@@ -48,14 +48,14 @@ Visualization of city locations in Colorado: the borders are latitude and longit
 
 ## Webcam Filter
 
-<iframe style= "width: 720px; height: 400px; overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/embed/Wo_rEGXu2"></iframe>
+<iframe style= "width: 720px; height: 400px; overflow: hidden; " scrolling = "no" src="https://editor.p5js.org/starbuck10/sketches/Wo_rEGXu2"></iframe>
 
-Simple webcam capture with filter applied for feedback.
+Simple webcam capture with filter applied.
 
 ---
 
 ## Think Outside the Fox
 
-<iframe style= "width: 792px; height: 1008px; overflow: hidden; " scrolling = "no" src="https://editor.p5js.org/starbuck10/sketches/Wo_rEGXu2"></iframe>
+<iframe style= "width: 792px; height: 1008px; overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/present/0YfAh_Bep"></iframe>
 
 Creative coding poster pictures a geometric fox with random eye color changes and mouse triggered laser eyes with galactic background and encourages viewers to take what they've always known and give it some flair!
