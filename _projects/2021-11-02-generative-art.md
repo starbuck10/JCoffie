@@ -63,7 +63,7 @@ Inspired by the Galleries feature from WordPress, we've made it easy to create g
 
 ```html
 <div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
+    <img src="/images/demo/demo-square.jpg">
     <img src="/images/demo/demo-landscape.jpg">
     <img src="/images/demo/demo-square.jpg">
     <img src="/images/demo/demo-landscape-2.jpg">
