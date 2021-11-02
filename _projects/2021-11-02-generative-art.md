@@ -6,19 +6,15 @@ description: Learning how to leverage code to create art.
 featured_image: '/images/demo/demo-landscape.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
 ## Generative Code
 
-As a portion of my Graduate studies at CU Boulder, I've been introduced to and playing around with generative art, learning how to use code to create visualizations, filters, and media that invokes thought and reflection.
+As part of my Graduate studies at CU Boulder ATLAS, I've been playing around with generative art, learning how to use code to create visualizations, filters, and media that invokes thought and reflection.  It is often these visualizations that capture human imagination and allows for constructive discourse as we try to make the World a better place together.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Here are a couple of lessons-learned from the experience:
 
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
+* Anything worth doing is worth doing poorly.  If you're waiting for perfection, you will never discover what your projects or plans can become.  Then, when you have a prototype, iterate!
+* Always plan for multiple iterations - you'll never be completely happy with your product and that's okay.  Art is more about discovery than a final solution so start small and build from there.
+* If all of the problems in the World were technical, they would've been solved by now.  Take your time, be expressive with your solutions, and allow beauty to change the World, not just debate.
 
 And:
 
