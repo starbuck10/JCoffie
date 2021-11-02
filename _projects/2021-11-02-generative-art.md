@@ -20,6 +20,8 @@ Here are a couple of lessons-learned from the experience:
 
 With all of that out of the way, let's take a look at some projects!  
 
+---
+
 ### Think Outside the Fox
 
 Need to put an iframe in here to host p5js work.
@@ -27,11 +29,3 @@ Need to put an iframe in here to host p5js work.
 <iframe style="width: 792px; height: 1008px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/starbuck10/embed/0YfAh_Bep"></iframe>
 
 ---
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
