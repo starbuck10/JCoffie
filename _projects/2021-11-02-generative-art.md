@@ -24,14 +24,37 @@ With all of that out of the way, let's take a look at some projects!
 
 ## Think Outside the Fox
 
-
 <iframe style="width: 792px; height: 1008px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/starbuck10/embed/0YfAh_Bep"></iframe>
 
 This coding project uses a variety of shapes and colors to create a a geometric fox with random eye color changes and mouse triggered laser eyes with galactic background.  The inspiration behind this project comes from my love of animals and encourages the viewer to take a different approach to their own internal problem solving.
 ---
 
-## Solar System Perspective
+## The Solar System
 
 <iframe style="width: 945px; height: 720px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/starbuck10/embed/BAiPwQ1SZ"></iframe>
 
 Scaled model of solar system that demonstrates the relative size of planets and their rotation speed (sped up for illustration but scaled, nevertheless).  This piece puts the viewer in a position of awe as they see their insignificance in our own small Solar System.
+
+---
+
+## Generative Alien Code
+
+<iframe style="width: 600px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="<iframe src="https://preview.p5js.org/starbuck10/embed/UnN1LHApl"></iframe>
+
+Alien language code generator - inspiration comes from Stargate and the random "alien code" generated on screen that has to be translated and interfaced with - uses random characters from the Navajo unicode database.
+
+---
+
+## Colorado City Populations
+
+<iframe style="width: 800px; height: 500px; overflow: hidden;"  scrolling="no" frameborder="0" src="<iframe src="https://preview.p5js.org/starbuck10/embed/iriiB_GBJ"></iframe>
+
+Visualization of city locations in Colorado: the borders are latitude and longitude lines. The four borders are at 37°N, 41°N, -102°03'W, and -109°03'W.
+
+---
+
+## Webcam Filter
+
+<iframe style="width: 720px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="<iframe src="https://preview.p5js.org/starbuck10/embed/Wo_rEGXu2"></iframe>
+
+Simple webcam capture with filter applied for feedback.
