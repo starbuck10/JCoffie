@@ -2,7 +2,7 @@
 title: Exploring Universal Income
 subtitle: 'Blog Post Review'
 date: 2021-09-23 00:00:00
-description:
+description: A look at UBI projects as a global aide solution
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
