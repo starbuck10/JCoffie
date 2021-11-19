@@ -26,23 +26,31 @@ So here's the goal: take the courses and gain the experience I need to become a 
 
 ---
 
-## Step 1 ASA103
+## Step 1 ASA101 - Basic Keelboat
 
-Talk about ASA101
+ASA101 was a series of classroom instruction and on-vessel application of sailing skills.  Here is a description of the course from ASA: "Able to skipper a sloop-rigged keelboat of approximately 20 to 27 feet in length by day in light to moderate winds (up to 15 knots) and sea conditions. Knowledge of basic sailing terminology, parts and functions, helm commands, basic sail trim, points of sail, buoyage, seamanship and safety including basic navigation rules to avoid collisions and hazards. Auxiliary power operation is not required."
+
+My key takeaway from the course: safety, safety, safety.  A skipper must be methodical, plan ahead, and put the safety of the crew above all else.
 
 ---
 
-## Step 2 ASA 103
+## Step 2 ASA 103 - Basic Coastal Cruising
 
-Talk about ASA103
+ASA103 builds on ASA101 and provides a deeper understanding of the operation of a sail-driven vessel.  The ASA describes this course as "Able to skipper a sloop-rigged auxiliary powered (inboard or outboard engine) keelboat of approximately 25 to 35 feet length by day in moderate winds (up to 20 knots) and sea conditions. Knowledge of cruising sailboat terminology, basic boat systems, auxiliary engine operation, docking procedures, intermediate sail trim, navigation rules, basic coastal navigation, anchoring, weather interpretation, safety and seamanship."
+
+My key takeaway from the course: Always safely operate your vessel but don't be afraid to make it your own - calm seas don't make seasoned sailors.  Take the time to find your limits and your vessels limits and learn to operate within those confines.
 
 ---
 ## Step 3: Buy a boat and rack up the hours!
 
-Talk about buying our MacGregor
+Following the completion of my ASA101 and ASA103 courses, I decided to purchase a 26' MacGregor "trailer-sailor" to continue wracking up hours and to gain experience maintaining, repairing, and upgrading my own vessel.  And here she is!
+
+<p align="center"><img src="/images/26d.jpg"></p>
+
+I also had the opportunity to charter boats in anticipation of ASA104 next year and to broaden my experience on a variety of vessels.  Woohoo!
 
 ---
 
 ## The next step in the journey
 
-Something here too.
+The next step in the journey is to wait out the Winter!  I was invited to join a sailing team this spring and as the weather warms, I'm looking to purchase a smaller Dinghy to continue to build up hours. I'd like to park it by a lake/reservoir so that I can build the hours necessary to gain my USCG 6-pack Captains license and progress with ASA104.  I'd also like to take the coursework necessary to begin as an ASA instructor so that I can generate additional income and continue to build our fleet.
