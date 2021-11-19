@@ -122,6 +122,10 @@ $footer-logo-width: {{ site.data.settings.footer_settings.logo_width }}px;
 $overlay-opacity: {{ site.data.settings.hero_settings.overlay_opacity }};
 $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 
+iframe {
+  width: 50vw;
+  height: 28.125vw; /*16:9*/
+}
 
 
 // - - - - - - - - - - Global styles
@@ -143,5 +147,3 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 
 @import "_includes/_listing";
 @import "_includes/_hero";
-
-
