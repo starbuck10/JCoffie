@@ -3,10 +3,10 @@ title: Implications in the Middle East due to Afghanistan Withdrawal
 subtitle: 'Blog Post on Webcast'
 date: 2021-11-19 00:00:00
 description: A look at the Wilson Center Webcast on ME affairs following the American withdrawal from Afghanistan
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/afghanistan.jpg'
 ---
 
-![My image Name](/images/demo/demo-landscape.jpg)
+![My image Name](/images/afghanistan.jpg)
 
 ## Hindsight Up Front: Implications of Afghanistan Withdrawal fro the Middle East, Wilson Center Webcast 11/2/2021
 
