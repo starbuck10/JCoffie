@@ -2,8 +2,10 @@
 title: About me
 subtitle:
 description:
-featured_image: /images/demo/about.jpg
+featured_image: /images/sail.jpg
 ---
+
+![Joshua Coffie](/images/joshua.jpg)
 
 ## About Me
 
