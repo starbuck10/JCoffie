@@ -24,7 +24,7 @@ With all of that out of the way, let's take a look at some projects!
 
 ## The Solar System
 
-<iframe style= "overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/embed/BAiPwQ1SZ"></iframe>
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/embed/BAiPwQ1SZ"></iframe></p>
 
 Scaled model of solar system that demonstrates the relative size of planets and their rotation speed (sped up for illustration but scaled, nevertheless).  This piece puts the viewer in a position of awe as they see their insignificance in our own small Solar System, especially in contrast with the relative size of our small sun.
 
@@ -32,7 +32,7 @@ Scaled model of solar system that demonstrates the relative size of planets and 
 
 ## Generative Alien Code
 
-<iframe style= "overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/embed/UnN1LHApl"></iframe>
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/embed/UnN1LHApl"></iframe></p>
 
 Alien language code generator - inspiration comes from Stargate and the random "alien code" generated on screen that has to be translated and interfaced with - uses random characters from the Navajo unicode database.
 
@@ -40,7 +40,7 @@ Alien language code generator - inspiration comes from Stargate and the random "
 
 ## Colorado City Populations
 
-<iframe style= "overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/embed/iriiB_GBJ"></iframe>
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/embed/iriiB_GBJ"></iframe></p>
 
 Visualization of city locations in Colorado: the borders are latitude and longitude lines. The four borders are at 37°N, 41°N, -102°03'W, and -109°03'W.
 
@@ -48,7 +48,7 @@ Visualization of city locations in Colorado: the borders are latitude and longit
 
 ## Webcam Filter
 
-<iframe style= "overflow: hidden; " scrolling = "no" src="https://editor.p5js.org/starbuck10/sketches/Wo_rEGXu2"></iframe>
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://editor.p5js.org/starbuck10/sketches/Wo_rEGXu2"></iframe></p>
 
 Simple webcam capture with filter applied.
 
@@ -56,6 +56,6 @@ Simple webcam capture with filter applied.
 
 ## Think Outside the Fox
 
-<iframe style= "overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/present/0YfAh_Bep"></iframe>
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/present/0YfAh_Bep"></iframe></p>
 
 Creative coding poster pictures a geometric fox with random eye color changes and mouse triggered laser eyes with galactic background and encourages viewers to take what they've always known and give it some flair!
