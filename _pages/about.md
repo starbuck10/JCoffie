@@ -41,6 +41,13 @@ Joshua is the owner and President of Vigeo Construction and Consulting and also 
 
 <b>Captain</b>, <i>US Army</i>, Jun 2009 - Jul 2013, Signal Corps, Aide-de-camp, Fort Drum, NY & Kandahar, Afghanistan
 
+## My Skillset
+
+* Policy Research and Development
+* User Centered Design
+* Innovation and Product/Service Development
+* Leadership and Organizational Psychology
+
 ## Personal life
 
 I love to learn, love to sail, and love taking on the hardest opportunity in front of me; if there is a challenge that doesn't have a straight-forward answer, I'm there!  I'm an Afghanistan war veteran and take every opportunity to travel that I can with my wife and our little girls.  I love finding solutions to problems and insist on taking the community and users into account in those solutions.  Have a tough problem you're looking to solve?  Reach out and say hello! /J
