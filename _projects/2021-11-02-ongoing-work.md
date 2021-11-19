@@ -18,7 +18,7 @@ Last year my brother and my mother gifted me with something that I never would h
 
 * Providing a mental escape from the busyness of our World
 * Giving me an outlet for simplicity to help work through life's issues
-* Generating a goal that could last a lifetime
+* Generating a passion that will last a lifetime
 
 I quickly signed up for the next course before my current one was complete and now I find myself wondering how to make this hobby a workable lifestyle for myself and my family.
 
