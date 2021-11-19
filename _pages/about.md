@@ -47,6 +47,8 @@ Joshua is the owner and President of Vigeo Construction and Consulting and also 
 * User Centered Design
 * Innovation and Product/Service Development
 * Leadership and Organizational Psychology
+* Agile Operations and Planning
+* Consulting and Business Management
 
 ## Personal life
 
