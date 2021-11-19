@@ -2,7 +2,7 @@
 title: Sudan's Failed Coup shows why Military Reform is a Must
 subtitle: 'Blog Post Review'
 date: 2021-10-28 00:00:00
-description:
+description: A nation's military must never be its police force
 featured_image: '/images/sudan.jpg'
 ---
 
