@@ -3,10 +3,10 @@ title: Universal Basic Income Deep Dive
 subtitle: 'Research Paper - Blog Post'
 date: 2021-11-19 00:00:00
 description: A deeper dive into UBI solutions for global aide
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/income.jpg'
 ---
 
-![My image Name](/images/demo/demo-landscape.jpg)
+![My image Name](/images/income.jpg)
 
 ## Universal Basic Income as a Global Aide Solution
 
