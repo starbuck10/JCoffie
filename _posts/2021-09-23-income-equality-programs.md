@@ -1,5 +1,5 @@
 ---
-title: 'Sudan's Failed Coup shows why Military Reform is a Must'
+title: Exploring Universal Income
 subtitle: 'Blog Post Review'
 date: 2021-09-23 00:00:00
 description:
