@@ -5,7 +5,7 @@ description:
 featured_image: /images/sail.jpg
 ---
 
-<p align = "center"> ![Joshua Coffie](/images/joshua.jpg)</p>
+<p align = "center"><img src = "/images/joshua.jpg"></p>
 
 ## About Me
 
