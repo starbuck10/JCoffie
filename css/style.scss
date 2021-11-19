@@ -123,8 +123,8 @@ $overlay-opacity: {{ site.data.settings.hero_settings.overlay_opacity }};
 $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 
 iframe {
-  width: 50vw;
-  height: 28.125vw; /*16:9*/
+  width: 75vw;
+  height: 42.1875vw; /*16:9*/
   display: block;
 }
 
