@@ -59,3 +59,7 @@ Simple webcam capture with filter applied.
 <p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/present/0YfAh_Bep"></iframe></p>
 
 Creative coding poster pictures a geometric fox with random eye color changes and mouse triggered laser eyes with galactic background and encourages viewers to take what they've always known and give it some flair!
+
+## Final project
+
+Coming Soon!  Final project is in development and consists of an Arduino designed to activate an intelligent LED strip in response to auditory stimulii.  
