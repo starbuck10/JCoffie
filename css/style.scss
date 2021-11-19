@@ -125,6 +125,7 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 iframe {
   width: 50vw;
   height: 28.125vw; /*16:9*/
+  display: block;
 }
 
 
