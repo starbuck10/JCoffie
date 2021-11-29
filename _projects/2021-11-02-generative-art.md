@@ -62,4 +62,4 @@ Creative coding poster pictures a geometric fox with random eye color changes an
 
 ## Final project
 
-<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://youtu.be/9ThS4DDEYw4"></iframe></p>
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://youtube.com/embed/9ThS4DDEYw4"></iframe></p>
