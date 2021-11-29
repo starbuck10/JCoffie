@@ -62,4 +62,4 @@ Creative coding poster pictures a geometric fox with random eye color changes an
 
 ## Final project
 
-Coming Soon!  Final project is in development and consists of an Arduino designed to activate an intelligent LED strip in response to auditory stimulii.  
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://youtu.be/9ThS4DDEYw4"></iframe></p>
