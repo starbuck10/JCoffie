@@ -60,8 +60,8 @@ Simple webcam capture with filter applied.
 
 Creative coding poster pictures a geometric fox with random eye color changes and mouse triggered laser eyes with galactic background and encourages viewers to take what they've always known and give it some flair!
 
-## Final project
+## Beat Responsive LED strip
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/9ThS4DDEYw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-Here is a video of my final project where I use an Arduino to create a beat responsive LED strip.  My inspiration came from a recent visit to Meow Wolf and I wanted to start beautifying my projects using physical mediums.  
+Here is a video of my final project for Creative Code where I use an Arduino to create a beat responsive LED strip.  My inspiration came from a recent visit to Meow Wolf and I wanted to start beautifying my projects using physical mediums.  
