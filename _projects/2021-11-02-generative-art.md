@@ -56,7 +56,7 @@ Simple webcam capture with filter applied.
 
 ## Think Outside the Fox
 
-<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/present/0YfAh_Bep"></iframe></p>
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://preview.p5js.org/starbuck10/present/0YfAh_Bep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Creative coding poster pictures a geometric fox with random eye color changes and mouse triggered laser eyes with galactic background and encourages viewers to take what they've always known and give it some flair!
 
