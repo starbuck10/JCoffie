@@ -124,10 +124,8 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 
 iframe {
   width: 65vw;
-  max-width: 950px;
   height: 36.5625vw; /*16:9*/
   display: block;
-  position: absolute;
 }
 
 
