@@ -53,6 +53,6 @@ I also had the opportunity to charter boats in anticipation of ASA104 next year 
 
 ## The next step in the journey
 
-The next step in the journey is to wait out the Winter!  I was invited to join a sailing team this spring and as the weather warms, I'm looking to purchase a smaller Dinghy to continue to build up hours. I'd like to park it by a lake/reservoir so that I can build the hours necessary to gain my USCG 6-pack Captains license and progress with ASA104.  I'd also like to take the coursework necessary to begin as an ASA instructor so that I can generate additional income and continue to build our fleet.
+The next step in the journey is to wait out the Winter!  I was invited to join a sailing team this spring and as the weather warms, I'm looking to purchase a smaller Dinghy to continue to build up hours. I'd like to park it by a lake/reservoir so that I can build the hours necessary to gain my USCG 6-pack Captains license while also looking for the best location to obtain the Yachmaster certification and commercial endorsement from RYA.  I'd also like to take the coursework necessary to begin as an ASA instructor so that I can generate additional income and continue to build our fleet while delivering and chartering boats with the Yachtmaster and 6-pack certifications.
 
-Stretch goal of 2022: Complete my first vessel delivery and begin to develop a reputation for safety and dependability.  
+Stretch goal of 2022: Complete my first vessel delivery and begin to develop a reputation for safety and dependability.  Fun stretch goal: Join a race team at Cherry Creek Reservoir in the spring.  
