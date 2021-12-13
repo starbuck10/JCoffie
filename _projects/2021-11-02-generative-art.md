@@ -45,12 +45,44 @@ Alien language code generator - inspiration comes from Stargate and the random "
 Visualization of city locations in Colorado: the borders are latitude and longitude lines. The four borders are at 37°N, 41°N, -102°03'W, and -109°03'W.
 
 ---
+## Cat Clock
+
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://editor.p5js.org/starbuck10/full/UzUTh2fjU"></iframe></p>
+
+A fun cat clock that reveals a mystery face as the time progresses.  Will the kitty every reach his prey?
+
+---
 
 ## Webcam Filter
 
 <p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://editor.p5js.org/starbuck10/sketches/Wo_rEGXu2"></iframe></p>
 
 Simple webcam capture with filter applied.
+
+---
+
+## Cat Facts
+
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://editor.p5js.org/starbuck10/full/Czuk-SW3A"></iframe></p>
+
+
+Cat Fact Generator using a cat fact API - learning to integrate API connections to pull and process JSON files.
+
+---
+
+## Tree Fractal
+
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://editor.p5js.org/starbuck10/full/AUJ0j-wtE"></iframe></p>
+
+Adjustable tree fractal that demonstrates a generative algorithm.
+
+---
+
+## Sound visualizations
+
+<p align="center"><iframe style= "overflow: hidden; " scrolling = "no" src="https://editor.p5js.org/starbuck10/full/SA3P1zeDo"></iframe></p>
+
+A jazzy creation that demonstrates how sound can be used to create generative art - inspiration comes from summer time, french jazz and the inherit energy present in everything, down to the atomic level.
 
 ---
 
