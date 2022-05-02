@@ -63,7 +63,21 @@ Stretch goal of 2022: Complete my first vessel delivery and begin to develop a r
 
 But nothing will turn out as you plan!  Looks like I won't be pursuing the 6-pack or Yachtmaster certification this year but our family was presented with an amazing opportunity to restore and get an old 1976 Catalina C15 back in the water and racing.  I purchased the craft at Cherry Creek Reservoir (amidst a VERY snowy day and the marina decided to store the boat off of its trailer, so talk about a long day in getting it home) for $500 and we plan to use it to learn to maneuver a smaller craft and spend more time out on the water.  An added bonus is that I'm starting to add in sailing trips for those that suffer from anxiety this year as a way to provide a coping mechanism, particularly since the pandemic is beginning to ebb but our emotions haven't returned to normal.  This opportunity was simply too good to pass up.  Let's get into some images if we can!
 
-Here is a shot of the hull after getting her home.  We replaced all of the standing rigging and all of the running rigging in her, along with some gelcoat repair work and renovating the tiller, rudder, and swing keel.  The forestay came in too short from <a href = "https://www.catalinadirect.com">Catalina Direct</a> and I can't speak highly enough of that's shops willingness to make things right and to help with repairs along the way.  
+<p align="center"><img src="/images/c15.jpg"></p>
+
+Here is a shot of the hull after getting her home.  
+
+<p align="center"><img src="/images/standingRigging.jpg"></p>
+
+We replaced all of the standing rigging and all of the running rigging in her...
+
+<p align="center"><img src="/images/repair.jpg"></p>
+
+along with some gelcoat repair work...
+
+<p align="center"><img src="/images/epoxy.jpg"></p>
+
+and renovating the tiller, rudder, and swing keel.  The forestay came in too short from <a href = "https://www.catalinadirect.com">Catalina Direct</a> and I can't speak highly enough of that's shops willingness to make things right and to help with repairs along the way.  
 
 So we have that forestay to replace and another coat of epoxy on the wood and we'll be ready to hit the water and check her seaworthiness!
 
