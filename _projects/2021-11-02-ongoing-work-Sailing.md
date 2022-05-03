@@ -77,7 +77,7 @@ along with some gelcoat repair work...
 
 <p align="center"><img src="/images/epoxy.jpg"></p>
 
-and renovating the tiller, rudder, and swing keel.  The forestay came in too short from <a href = "https://www.catalinadirect.com">Catalina Direct</a> and I can't speak highly enough of that's shops willingness to make things right and to help with repairs along the way.  
+and renovating the tiller, rudder, and swing keel.  The forestay came in too short from <a href = "https://www.catalinadirect.com">Catalina Direct</a> and I can't speak highly enough of that shop's willingness to make things right and to help with repair advice along the way.  
 
 So we have that forestay to replace and another coat of epoxy on the wood and we'll be ready to hit the water and check her seaworthiness!
 
