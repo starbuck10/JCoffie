@@ -36,7 +36,7 @@ Our prototyping progress update - culmination of clue layout and the realization
 
 Simultaneously, we worked on developing the projection of our small island nation going under water to add suspense to the game design.  Preetum developed a layered P5js sketch to build up the scene and the layering progress can be seen here:
 
-<p align="center"><image src="images/scene.gif" width="450"> </p>
+<image align = "center" src="images/scene.gif" width="450"> </p>
 
 ---
 ## User testing
