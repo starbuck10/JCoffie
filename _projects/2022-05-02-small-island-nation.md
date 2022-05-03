@@ -20,6 +20,10 @@ Here was our overall vision for the project:
 
 <p align="center"><img src="/images/teamBio.jpg"></p>
 
+<p align="center"><b>We’re team Greenpiece.</b></p>
+We believe in approaching complex problems with appropriately nuanced design.
+We’re one part of the puzzle and we hope that you’ll join us in piecing it together.
+
 ---
 
 ## Project Vision and Design
