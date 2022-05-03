@@ -92,6 +92,7 @@ The results of the project demonstrate that the most effective hull design teste
 
 <p align="center"><img src="/images/graphs.jpg"></p>
 <p align="center">Figure 6: Flex Sensor angle (y-axis) over time for differing hull types</p>
+
 ---
 
 ## Lessons Learned and Areas for Improvement
@@ -104,6 +105,7 @@ As with any project, there are a myriad of areas for continual improvement, part
 
 <p align="center"><img src="/images/waterTank.jpg"></p>
 <p align="center">Figure 7: Overall tank with tell-tales in place</p>
+
 ---
 
 ## Parting Thoughts and ATLAS EXPO 2022
