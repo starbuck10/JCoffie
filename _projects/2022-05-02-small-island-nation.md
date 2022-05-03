@@ -14,6 +14,11 @@ Here was our overall vision for the project:
 
  <p align="center"><img src="/images/theGame.jpg"></p>
 
+ More on the background:
+
+ <p align="center"><img src="/images/whyCare.jpg"></p>
+ <p align="center"><img src="/images/solveProblem.jpg"></p>
+
 ---
 
 ## Let's meet the team!
