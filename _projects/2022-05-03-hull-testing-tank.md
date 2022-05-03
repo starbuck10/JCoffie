@@ -1,5 +1,5 @@
 ---
-title: 'Project: Boat Hull Testing Tank'
+title: 'Project: Pier Pressure'
 subtitle: 'A proof of concept for rapid boat hull design prototyping'
 date: 2022-05-03 06:00:00
 description: Developing a proof of concept for rapid boat hull design prototyping
@@ -14,11 +14,11 @@ The purpose of the project was to develop a rapid prototyping and testing setup 
 
 ## Problem Statement
 
-<--! Insert image1 from slide deck-->
+<p align="center"><img src="/images/hullSlide1.jpg"></p>
 
 By 2050, over 570 low-lying coastal cities will face projected sea level rise by at least 0.5 meters, putting more than 800 million people at risk from the impacts of rising seas, extreme weather and storm surges.  Further, the planet's average surface temperature has risen about 2.12 degrees Fahrenheit (1.18 degrees Celsius) since the late 19th century, a change driven largely by increased carbon dioxide emissions into the atmosphere and other human activities, creating a massive amount of strain on our oceans and the planet as a whole.
 
-<--! Insert image2 from slide deck-->
+<p align="center"><img src="/images/hullSlide2.jpg"></p>
 
 As the cost of fossil fuels, and the effects of their usage, become more difficult to bear, companies and organizations will continue to develop newer technologies that can assist in removing fossil fuels from the global warming conversation.  For instance, cargo ships are now being fit with sails to allow them to transit the trade winds with less fuel consumption.  Our hops is that by creating a low-resolution prototyping system that allows iteration in days instead of years, we can assist boat designers and builders in determining more efficient design, which we hope will propagate into the designs of less complicated, and less expensive craft on the water (villages, personal watercraft, etc.).  
 
