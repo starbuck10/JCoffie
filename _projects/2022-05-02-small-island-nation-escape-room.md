@@ -14,7 +14,7 @@ Text here and images from the deck.
 
 ## Let's meet the team!
 
- // <p align="center"><img src="/images/images of us from the deck.jpg"></p>
+ <!-- <p align="center"><img src="/images/images of us from the deck.jpg"></p> -->
 
  Team bios
 
@@ -36,6 +36,10 @@ Talk about prototypes and provide documentation
 Although brief in this exhibit, we did use usability practices to design the experience...
 
 ---
+
+## Developing Clues in the Escape Room
+
+Physical and digital clues
 
 ## Uh oh... Houston, we've got 100 problems and this tech is one of them!
 
