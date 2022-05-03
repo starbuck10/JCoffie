@@ -84,18 +84,23 @@ Digital clue walkthrough:
 Physical clues:
 
 <p align="center"><img src="/images/fishClue.jpg"></p>
+
 This clue was hidden inside a talking fish's mouth in the escape room for visitors to find and produced a digital fact demonstrating the harmful effects of overfishing on climate change.
 
 <p align="center"><img src="/images/hotWheels.jpg"></p>
+
 This clue was a physical game of escape that hinted to the proper clue code, hidden under the public transit bus, with false clue codes on the other vehicles - this clue launched a digital fact demonstrating the need to reduce carbon emissions through one passenger commuting vehicles.  
 
 <p align="center"><img src="/images/plugs.jpg"></p>
+
 Through a series of plugs and outlets, visitors plug in each plug and the one that doesn't fit into a plug has the proper code on it - this launches a digital clue on home energy usage.
 
 <p align="center"><img src="/images/puzzle.jpg"></p>
+
 This puzzle, a code breaker of sorts, shows the location of the next clue.
 
 <p align="center"><img src="/images/trashCan.jpg"></p>
+
 The trash can has a bunch of recycling rubbish in it and a hidden clue inside!
 
 Each clue is designed to highlight the 10 most contributing factors to global warming, including the following points:
