@@ -18,7 +18,7 @@ The purpose of the project was to develop a rapid prototyping and testing setup 
 
 <p align="center"><img src="/images/hullSlide2.jpg"></p>
 
-As the cost of fossil fuels, and the effects of their usage, become more difficult to bear, companies and organizations will continue to develop newer technologies that can assist in removing fossil fuels from the global warming conversation.  For instance, cargo ships are now being fit with sails to allow them to transit the trade winds with less fuel consumption.  Our hops is that by creating a low-resolution prototyping system that allows iteration in days instead of years, we can assist boat designers and builders in determining more efficient design, which we hope will propagate into the designs of less complicated, and less expensive craft on the water (villages, personal watercraft, etc.).  
+As the cost of fossil fuels, and the effects of their usage, become more difficult to bear, companies and organizations will continue to develop newer technologies that can assist in removing fossil fuels from the global warming conversation.  For instance, cargo ships are now being fit with sails to allow them to transit the trade winds with less fuel consumption.  Our hope is that by creating a low-resolution prototyping system that allows iteration in days instead of years, we can assist boat designers and builders in determining more efficient design, which we hope will propagate into the designs of less complicated, and less expensive craft on the water (villages, personal watercraft, etc.).  
 
 ---
 
