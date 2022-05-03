@@ -8,7 +8,9 @@ featured_image: '/images/team.jpg'
 
 ## The Intro
 
-Text here and images from the deck.
+Our vision for this project was to present an interactive and impactful exhibit that helps the world understand the struggle that many nations are going through as a result of global warming.  With massive famines across much of the World, very little attention is given to the small island nations whose low elevation has driven many people from their homes.  Even worse, entire islands are disappearing with the advent of climate refugees.  Our mission was to bring attention to this timely and scary issue by designing an escape room that teaches visitors about the impacts of global warming.  Staged as a fact finding mission to educate the International Community, this game is designed to educate, excited, and provide a low-budget experience that truly leaves people changed.
+
+Here was our overall vision for the project:
 
  <p align="center"><img src="/images/theGame.jpg"></p>
 
@@ -22,9 +24,14 @@ Text here and images from the deck.
 
 ## Project Vision and Design
 
-The purpose of the project is to create an experience where visitors to the exhibit walk away informed of the plight of small island nations and have the desire to step up as a puzzle piece in the solution to global warming.
+The purpose of the project wass to create an experience where visitors to the exhibit walk away informed of the plight of small island nations and have the desire to step up as a puzzle piece in the solution to global warming.  This vision, encapsulated by our initial and ambitious design, demonstrates how even a little technology can be used to maximize storytelling.
 
+The Vision:
 <p align="center"><img src="/images/theVision.jpg"></p>
+
+The Technical Side of Things:
+<p align="center"><img src="/images/techDiagram.jpg"></p>
+
 
 ---
 
@@ -36,7 +43,7 @@ Our prototyping progress update - culmination of clue layout and the realization
 
 Simultaneously, we worked on developing the projection of our small island nation going under water to add suspense to the game design.  Preetum developed a layered P5js sketch to build up the scene and the layering progress can be seen here:
 
-<image align = "center" src="images/scene.gif" width="450"> </p>
+<image align = "center" src="/images/scene.gif" width="450"> </p>
 
 ---
 ## User testing
