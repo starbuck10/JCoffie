@@ -51,8 +51,8 @@ Describe changes to the plan after prototyping
 
 This expo was coooooool. and here is what setting up was like with progress images.
 
-<p align="center"><img src="/images/cardboard1.jpg"></p>
 <p align="center"><img src="/images/cardboard2.jpg"></p>
+<p align="center"><img src="/images/cardboard1.jpg"></p>
 <p align="center"><img src="/images/cardboard3.jpg"></p>
 <p align="center"><img src="/images/preetum.jpg"></p>
 <p align="center"><img src="/images/writing.jpg"></p>
