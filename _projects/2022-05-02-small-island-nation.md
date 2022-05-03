@@ -40,7 +40,7 @@ The Vision:
 The Technical Side of Things:
 <p align="center"><img src="/images/techDiagram.jpg"></p>
 
-The cooperation button was an idea we had that wasn't really possible to do within our technological constraints outlined below, but this part of the project involved requiring bnoth players to push a button on opposite sides of the room - halfway through the game, our timer was to pick up speed and the only way to restore it to its normal pace was to have buttons on opposite sides of the room depressed simultaneously.
+The cooperation button was an idea we had that wasn't really possible to do within our technological constraints outlined below, but this part of the project involved requiring bnoth players to push a button on opposite sides of the room - halfway through the game, our timer was to pick up speed and the only way to restore it to its normal pace was to have buttons on opposite sides of the room depressed simultaneously.  Oh, and that water pump on the diagram?  That was an idea to use some plexiglass tubing to pump water from a storage vat up through the tubes, with lighting, to simulate actual water rising.  Let's just say that one didn't get much further with the venue selected as a couple hundred gallons of water storage would add a number complications to a temporary display (where to store, what happens if you have a leak, etc.) that most permanent displays don't experience as the infrastructure may be more robust.  
 
 ---
 
