@@ -22,12 +22,11 @@ Here was our overall vision for the project:
 ---
 
 ## Let's meet the team!
+Our team consisted of 4 members from the CU Boulder ATLAS Master's community but each with very differing backgrounds in design and technology.
 
 <p align="center"><img src="/images/teamBio.jpg"></p>
 
-<p align="center"><b>We’re team Greenpiece.</b></p>
-We believe in approaching complex problems with appropriately nuanced design.
-We’re one part of the puzzle and we hope that you’ll join us in piecing it together.
+<p align="center"><b>We’re team Greenpiece. </b> We believe in approaching complex problems with appropriately nuanced design. We’re one part of the puzzle in creating lasting change in our World and we hope that you’ll join us in piecing the rest of it together.</p>
 
 ---
 
@@ -130,7 +129,7 @@ Julia: "I learned how important it is to be adaptable. It's pretty vital to know
 
 Preetum: "I've learned the value of working as a team and maintaining positive relationships with team members. It's important to understand that sometimes progressing small goals is more important than perfection. It's all about the joy of coming together to achieve a goal that everyone on the team believes in. Receiving feedback assisted us in focusing on the most important aspects of the project and getting us on the right track. It was a lot of fun creating a tangible solution that incorporated various technologies. Overall, it was a rewarding experience to collaborate with my teammates, mentors, and everyone else involved."
 
-Shivangi: ""
+Shivangi: "."
 
 
 Overall, we couldn't be happier with the experience.  Through ups and downs, uncertainty and unexpected curveballs, we created an exhibit we were proud of and that we hope will encourage others to explore the impacts of global warming on our planet and the people that reside here.
