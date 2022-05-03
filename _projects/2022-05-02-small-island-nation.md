@@ -69,6 +69,8 @@ Although brief in this exhibit, we did use usability practices to design and dev
 
 What we discovered from this interaction was that our clues needed to be adjusted for timing, our 2 hour timer was incredibly excessive, and we also discovered that the game was a bit too intense for the experience to be anything but defeating.  For this reason, we ended up adjusting the video projection to be a bit more fun and lower fidelity to not intimidate guests, which is demonstrated in the video above.  
 
+Feedback from our classmates also taught us how to iterate on the design and which features to focus on for the experience over others. It was a whole package of learnings from the beginning to the finish of the process. The expo was also a great point of feedback as such a large platform to present also provided us with the opportunity to display and explain our project to others.
+
 ---
 
 ## Developing Clues for the Escape Room
@@ -81,7 +83,11 @@ Digital clue walkthrough:
 
 Physical clues:
 
-NEED AN IMAGE HERE TO SHOW THE PHYSICAL CLUES WE DEVELOPED
+<p align="center"><img src="/images/fishClue.jpg"></p>
+<p align="center"><img src="/images/hotWheels.jpg"></p>
+<p align="center"><img src="/images/plugs.jpg"></p>
+<p align="center"><img src="/images/puzzle.jpg"></p>
+<p align="center"><img src="/images/trashCan.jpg"></p>
 
 ---
 
@@ -129,7 +135,7 @@ Julia: "I learned how important it is to be adaptable. It's pretty vital to know
 
 Preetum: "I've learned the value of working as a team and maintaining positive relationships with team members. It's important to understand that sometimes progressing small goals is more important than perfection. It's all about the joy of coming together to achieve a goal that everyone on the team believes in. Receiving feedback assisted us in focusing on the most important aspects of the project and getting us on the right track. It was a lot of fun creating a tangible solution that incorporated various technologies. Overall, it was a rewarding experience to collaborate with my teammates, mentors, and everyone else involved."
 
-Shivangi: "."
+Shivangi: "I managed to learn how to work with a team, how to respect each other's opinions, and how to make some ground decisions. I was fortunate to be able to learn from each and every member of our team. I've learnt about various of softwares, including Arduino, Sketchup, and JavaScript. I was able to explore many systems that were really intuitive for me.."
 
 
 Overall, we couldn't be happier with the experience.  Through ups and downs, uncertainty and unexpected curveballs, we created an exhibit we were proud of and that we hope will encourage others to explore the impacts of global warming on our planet and the people that reside here.
