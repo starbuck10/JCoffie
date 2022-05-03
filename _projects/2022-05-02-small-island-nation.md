@@ -61,19 +61,19 @@ And to add more fun to the mix, we elected to use an arduino and a push button a
 ---
 ## User testing
 
-Although brief in this exhibit, we did use usability practices to design the experience., alter clues, and eventually add sound and sound responsive lighting to the exhibit.  Here is some of our user testing results and the process in action:
+Although brief in this exhibit, we did use usability practices to design and develop the experience, alter clues, and eventually add sound and sound responsive lighting to the exhibit.  Here is some of our user testing results and the process in action:
 
 <p align="center"><img src="/images/clueTest.jpg"></p>
 <p align="center"><img src="/images/userFeedback.jpg"></p>
 <p align="center"><img src="/images/userTest2.jpg"></p>
 
-What we discovered from this interaction was that our clues needed to be adjusted for timing, our 2 hour timer was incredibly excessive, and we also discovered that the game was a bit too intense for the experience to be anything but defeating.  For this reason, we ended up adjusting the video projection to be a bit more fun and lower fidelity to not intimidate guests.  
+What we discovered from this interaction was that our clues needed to be adjusted for timing, our 2 hour timer was incredibly excessive, and we also discovered that the game was a bit too intense for the experience to be anything but defeating.  For this reason, we ended up adjusting the video projection to be a bit more fun and lower fidelity to not intimidate guests, which is demonstrated in the video above.  
 
 ---
 
 ## Developing Clues for the Escape Room
 
-Physical and digital clues were quite difficult to make hard enough to entertain but easy enough to solve in the time limit and also teach a lesson.  Here is a breakout of the clues we decided to use in the final game:
+Physical and digital clues were quite difficult to make hard enough to entertain but easy enough to solve in the time limit and also teach a lesson.  Here is a breakout of the clues we decided to use in the final game, understanding we needed a mix of complexity and interactive experiences to keep our audience engaged:
 
 Digital clue walkthrough:
 
