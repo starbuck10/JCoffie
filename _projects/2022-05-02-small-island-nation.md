@@ -123,7 +123,7 @@ Text and videos of the walkthrough.
 
 What'd we learn from the experience?
 
-Joshua: "My biggest takeaway is the power of imagination - people aren't looking for mind-blowing futuristic tech, they're looking for experience.  If you provide visitors with experience, with just the right dash of WOAH, you'll be lightyears ahead of futurism.  Trust other's imaginations and always be willing to adapt to constraints."
+Joshua: "My biggest takeaway is the power of imagination - people aren't looking for mind-blowing futuristic tech, they're looking for experience.  If you provide visitors with experience, with just the right dash of WOAH, you'll be lightyears ahead of futurism.  Trust others' imaginations and insights and always be willing to adapt to constraints - afterall, that's what makes this worthwhile and fun."
 
 Julia: "I learned how important it is to be adaptable. It's pretty vital to know when to scale down or change plans based on time constraints, finances, etc. Also, learning to incorporate a lot of different ideas was a really fun challenge. It was great to see everyone's creativity shine through while making one cohesive project."
 
