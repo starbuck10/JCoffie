@@ -50,7 +50,7 @@ Our prototyping progress update - culmination of clue layout and the realization
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/c-PtrmBeKns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-Simultaneously, we worked on developing the projection of our small island nation going under water to add suspense to the game design.  Preetum developed a layered P5js sketch to build up the scene and the layering progress can be seen here:
+Simultaneously, we worked on developing the projection of our small island nation going under water to add suspense to the game design.  Preetam developed a layered P5js sketch to build up the scene and the layering progress can be seen here:
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CgB5feFIycg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
@@ -135,7 +135,7 @@ Let's take a look at the progress of the build!
 <p align="center"><img src="/images/cardboard2.jpg"></p>
 <p align="center"><img src="/images/cardboard1.jpg"></p>
 <p align="center"><img src="/images/cardboard3.jpg"></p>
-<p align="center"><img src="/images/preetum.jpg"></p>
+<p align="center"><img src="/images/Preetam.jpg"></p>
 <p align="center"><img src="/images/writing.jpg"></p>
 <p align="center"><img src="/images/arduino.jpg"></p>
 <p align="center"><img src="/images/julia.jpg"></p>
@@ -162,7 +162,7 @@ Joshua: "My biggest takeaway is the power of imagination - people aren't looking
 
 Julia: "I learned how important it is to be adaptable. It's pretty vital to know when to scale down or change plans based on time constraints, finances, etc. Also, learning to incorporate a lot of different ideas was a really fun challenge. It was great to see everyone's creativity shine through while making one cohesive project."
 
-Preetum: "I've learned the value of working as a team and maintaining positive relationships with team members. It's important to understand that sometimes progressing small goals is more important than perfection. It's all about the joy of coming together to achieve a goal that everyone on the team believes in. Receiving feedback assisted us in focusing on the most important aspects of the project and getting us on the right track. It was a lot of fun creating a tangible solution that incorporated various technologies. Overall, it was a rewarding experience to collaborate with my teammates, mentors, and everyone else involved."
+Preetam: "I've learned the value of working as a team and maintaining positive relationships with team members. It's important to understand that sometimes progressing small goals is more important than perfection. It's all about the joy of coming together to achieve a goal that everyone on the team believes in. Receiving feedback assisted us in focusing on the most important aspects of the project and getting us on the right track. It was a lot of fun creating a tangible solution that incorporated various technologies. Overall, it was a rewarding experience to collaborate with my teammates, mentors, and everyone else involved."
 
 Shivangi: "I managed to learn how to work with a team, how to respect each other's opinions, and how to make some ground decisions. I was fortunate to be able to learn from each and every member of our team. I've learnt about various of softwares, including Arduino, Sketchup, and JavaScript. I was able to explore many systems that were really intuitive for me.."
 
