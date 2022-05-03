@@ -81,4 +81,6 @@ and renovating the tiller, rudder, and swing keel.  The forestay came in too sho
 
 So we have that forestay to replace and another coat of epoxy on the wood and we'll be ready to hit the water and check her seaworthiness!
 
+---
+
 ## Next update coming soon!
