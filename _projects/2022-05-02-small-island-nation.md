@@ -32,7 +32,7 @@ Our team consisted of 4 members from the CU Boulder ATLAS Master's community but
 
 ## Project Vision and Design
 
-The purpose of the project wass to create an experience where visitors to the exhibit walk away informed of the plight of small island nations and have the desire to step up as a puzzle piece in the solution to global warming.  This vision, encapsulated by our initial and ambitious design, demonstrates how even a little technology can be used to maximize storytelling.
+The purpose of the project wass to create an experience where visitors to the exhibit walk away informed of the plight of small island nations and have the desire to step up as a puzzle piece in the solution to global warming.  This vision, encapsulated by our initial and ambitious design, demonstrates how even a little technology can be used to maximize the storytelling experience.
 
 The Vision:
 <p align="center"><img src="/images/theVision.jpg"></p>
