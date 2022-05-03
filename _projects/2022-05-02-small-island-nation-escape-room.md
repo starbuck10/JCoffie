@@ -30,10 +30,13 @@ The purpose of the project is to create an experience where visitors to the exhi
 
 ## Prototyping
 
-Talk about prototypes and provide documentation
+Our prototyping progress update - culmination of clue layout and the realization that we have a bit of game design left to do:
 
 <p align="center"><iframe width="560" height="315" src="https://youtu.be/c-PtrmBeKns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
+Simultaneously, we worked on developing the projection of our small island nation going under water to add suspense to the game design.  Preetum developed a layered P5js sketch to build up the scene and the layering progress can be seen here:
+
+<p align="center"><img src="/images/scene.gif"></p>
 
 ---
 ## User testing
