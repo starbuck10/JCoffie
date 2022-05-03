@@ -2,7 +2,7 @@
 title: 'Ongoing Project: Ocean Sailing'
 subtitle: 'Making my way to the high seas'
 date: 2021-11-02 15:00:00
-description: This is my journey to captaining an ocean going sailing vessel.
+description: This is my journey to captaining an ocean going sailing vessel
 featured_image: '/images/sailboat.jpg'
 ---
 
