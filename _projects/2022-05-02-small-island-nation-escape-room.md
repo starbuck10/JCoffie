@@ -68,6 +68,8 @@ This expo was coooooool. and here is what setting up was like with progress imag
 <p align="center"><img src="/images/arduino.jpg"></p>
 <p align="center"><img src="/images/julia.jpg"></p>
 
+<p align="center"><iframe width="560" height="315" src="https://youtube.com/shorts/S3YzDiQ1sOQ?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 ---
 
 ## The final product
