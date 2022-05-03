@@ -51,6 +51,8 @@ Physical and digital clues
 
 <p align="center"><iframe width="560" height="315" src="https://youtu.be/IHVf7XfxMjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
+---
+
 ## Uh oh... Houston, we've got 100 problems and this tech is one of them!
 
 Describe changes to the plan after prototyping (includes door locking system, escape room shell - cardboard + tent instead of wood framing + door, touchpad interface - no mac connectivity, used computer with touchscreen instead PC, short throw projector to screen, low-fidelity video instead of realistic graphics to make experience more fun and less serious)
