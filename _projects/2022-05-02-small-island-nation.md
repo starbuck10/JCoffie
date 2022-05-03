@@ -75,7 +75,7 @@ Feedback from our classmates also taught us how to iterate on the design and whi
 
 ## Developing Clues for the Escape Room
 
-Physical and digital clues were quite difficult to make hard enough to entertain but easy enough to solve in the time limit and also teach a lesson.  Here is a breakout of the clues we decided to use in the final game, understanding we needed a mix of complexity and interactive experiences to keep our audience engaged:
+Physical and digital clues were quite difficult to make hard enough to entertain but easy enough to solve in the time limit and also teach a lesson.  We also had to use clue code inputs in our game (providing true and false code entries througout the room) to allow screens to progress and interactivity to occur without constant exhibit supervision and reset.  Here is a breakout of the clues we decided to use in the final game, understanding we needed a mix of complexity and interactive experiences to keep our audience engaged:
 
 Digital clue walkthrough:
 
@@ -84,10 +84,34 @@ Digital clue walkthrough:
 Physical clues:
 
 <p align="center"><img src="/images/fishClue.jpg"></p>
+This clue was hidden inside a talking fish's mouth in the escape room for visitors to find and produced a digital fact demonstrating the harmful effects of overfishing on climate change.
+
 <p align="center"><img src="/images/hotWheels.jpg"></p>
+This clue was a physical game of escape that hinted to the proper clue code, hidden under the public transit bus, with false clue codes on the other vehicles - this clue launched a digital fact demonstrating the need to reduce carbon emissions through one passenger commuting vehicles.  
+
 <p align="center"><img src="/images/plugs.jpg"></p>
+Through a series of plugs and outlets, visitors plug in each plug and the one that doesn't fit into a plug has the proper code on it - this launches a digital clue on home energy usage.
+
 <p align="center"><img src="/images/puzzle.jpg"></p>
+This puzzle, a code breaker of sorts, shows the location of the next clue.
+
 <p align="center"><img src="/images/trashCan.jpg"></p>
+The trash can has a bunch of recycling rubbish in it and a hidden clue inside!
+
+Each clue is designed to highlight the 10 most contributing factors to global warming, including the following points:
+
+<p align = "center"><b>Climate Change activities</b></p>
+
+1. Oil and Gas (use of fossil fuels in industry)
+2. Deforestation (lack of trees to clean carbon)
+3. Waste (harmful gas release from garbage)
+4. Power Generation (Burning Coal)
+5. Oil Drilling (Mining and processing releases hydrocarbons from earth)
+6. Transportation and Vehicles (burning of fossil fuels)
+7. Consumerism (Overproduction of products that leads to waste)
+8. Farming (animals and large track, methane, removal of crop cover)
+9. Industrialization (Chemicals cause pollution)
+10. Overfishing (lack of diversity in ocean and removes ability for ocean to heal itself)
 
 ---
 
