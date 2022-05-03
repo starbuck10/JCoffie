@@ -14,9 +14,9 @@ Text here and images from the deck.
 
 ## Let's meet the team!
 
- <!-- <p align="center"><img src="/images/images of us from the deck.jpg"></p> -->
+ <p align="center"><img src="/images/teamBio.jpg"></p>
 
- Team bios
+ Team biographies need to be added here.  
 
 ---
 
@@ -24,7 +24,7 @@ Text here and images from the deck.
 
 The purpose of the project is to create an experience where visitors to the exhibit walk away informed of the plight of small island nations and have the desire to step up as a puzzle piece in the solution to global warming.
 
-<!--Image of design layout / initial concept -->
+Image of design layout / initial concept
 
 ---
 
