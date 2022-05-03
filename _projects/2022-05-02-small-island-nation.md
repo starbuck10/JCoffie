@@ -63,7 +63,7 @@ What we discovered from this interaction was that our clues needed to be adjuste
 
 ---
 
-## Developing Clues in the Escape Room
+## Developing Clues for the Escape Room
 
 Physical and digital clues were quite difficult to make hard enough to entertain but easy enough to solve in the time limit and also teach a lesson.  Here is a breakout of the clues we decided to use in the final game:
 
@@ -122,5 +122,8 @@ Julia: "I learned how important it is to be adaptable. It's pretty vital to know
 Preetum: "I've learned the value of working as a team and maintaining positive relationships with team members. It's important to understand that sometimes progressing small goals is more important than perfection. It's all about the joy of coming together to achieve a goal that everyone on the team believes in. Receiving feedback assisted us in focusing on the most important aspects of the project and getting us on the right track. It was a lot of fun creating a tangible solution that incorporated various technologies. Overall, it was a rewarding experience to collaborate with my teammates, mentors, and everyone else involved."
 
 Shivangi: ""
+
+
+Overall, we couldn't be happier with the experience.  Through ups and downs, uncertainty and unexpected curveballs, we created an exhibit we were proud of and that we hope will encourage others to explore the impacts of global warming on our planet and the people that reside here.
 
 <p align="center"><img src="/images/team.jpg"></p>
