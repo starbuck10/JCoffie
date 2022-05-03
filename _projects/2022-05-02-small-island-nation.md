@@ -32,6 +32,8 @@ The Vision:
 The Technical Side of Things:
 <p align="center"><img src="/images/techDiagram.jpg"></p>
 
+The cooperation button was an idea we had that wasn't really possible to do within our technological constraints outlined below, but this part of the project involved requiring bnoth players to push a button on opposite sides of the room - halfway through the game, our timer was to pick up speed and the only way to restore it to its normal pace was to have buttons on opposite sides of the room depressed simultaneously.
+
 ---
 
 ## Prototyping
@@ -51,10 +53,11 @@ And to add more fun to the mix, we elected to use an arduino and a push button a
 ---
 ## User testing
 
-Although brief in this exhibit, we did use usability practices to design the experience... change clues, add sound to the experience.  Add in images/user experience documentation.
+Although brief in this exhibit, we did use usability practices to design the experience., alter clues, and eventually add sound and sound responsive lighting to the exhibit.  Here is some of our user testing results and the process in action:
 
 <p align="center"><img src="/images/clueTest.jpg"></p>
 <p align="center"><img src="/images/userFeedback.jpg"></p>
+<p align="center"><img src="/images/userTest2.jpg"></p>
 
 What we discovered from this interaction was that our clues needed to be adjusted for timing, our 2 hour timer was incredibly excessive, and we also discovered that the game was a bit too intense for the experience to be anything but defeating.  For this reason, we ended up adjusting the video projection to be a bit more fun and lower fidelity to not intimidate guests.  
 
@@ -62,15 +65,21 @@ What we discovered from this interaction was that our clues needed to be adjuste
 
 ## Developing Clues in the Escape Room
 
-Physical and digital clues
+Physical and digital clues were quite difficult to make hard enough to entertain but easy enough to solve in the time limit and also teach a lesson.  Here is a breakout of the clues we decided to use in the final game:
+
+Digital clue walkthrough:
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/IHVf7XfxMjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Physical clues:
+
+NEED AN IMAGE HERE TO SHOW THE PHYSICAL CLUES WE DEVELOPED
 
 ---
 
 ## Uh oh... Houston, we've got 100 problems and this tech is one of them!
 
-Describe changes to the plan after prototyping (includes door locking system, escape room shell - cardboard + tent instead of wood framing + door, touchpad interface - no mac connectivity, used computer with touchscreen instead PC, short throw projector to screen)
+In an effort to keep our tech build on task, we elected as a team to come in after hours and assemble the various components and we are certainly glad we did.  The electronic door lock we were planning to use got backordered and the only one available in time used an AC/DC converter which arrived broken and unusable.  We also faced a shortage of Raspberry Pi devices and Joshua couldn't locate his in time for the project.  Finally, our touchpad interface screen was not compatible with mac and as the code would take a while to interface with, we used Preetam's touchscreen PC and found we had no use for it.  Finally, our project required a short-throw project, none of which were available nor within budget.  All-in-all, an opportunity to fall prey to the uncertainties of life.  Instead, we hunkered down and decided to use a screen instead of a project, use a touchscreen PC instead of our touchpad interface, remove the raspberry pi and run off the local machine, and finally use an alarm and timer system for the escape room instead of a locking door.  Oh, and did I mention that the space we were going to present in was also too small, temporary, and unable to allow more setup time than the day of for our exhibit?  Good thing we have pop-up tents and cardboard available!  All-in-all, these unexpected surprises added to the charm of the exhibit and we determine that setting the escape room in an "exhibit mode" allowed us to educate a wide audience without creating a queue for accessing the message we wanted to present.
 
 ---
 
