@@ -2,7 +2,7 @@
 title: 'Small Island Nation Escape Room'
 subtitle: 'An exhibit for change'
 date: 2022-05-11 15:00:00
-description: A class project for Design Studio to make an impactful, interactive exhibit
+description: Designing and building an interactive and impactful exhibit
 featured_image: '/images/team.jpg'
 ---
 
