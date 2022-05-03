@@ -1,12 +1,12 @@
 ---
 title: 'Project: Small Island Nation Escape Room'
 subtitle: 'An exhibit for change'
-date: 2022-05-11 15:00:00
+date: 2022-05-02 12:00:00
 description: Designing and building an interactive and impactful exhibit
 featured_image: '/images/team.jpg'
 ---
 
-## Introduction to our Project 
+## The Intro
 
 Text here and images from the deck.
 
