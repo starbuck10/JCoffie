@@ -41,7 +41,7 @@ Simultaneously, we worked on developing the projection of our small island natio
 ---
 ## User testing
 
-Although brief in this exhibit, we did use usability practices to design the experience... change clues, add sound to the experience
+Although brief in this exhibit, we did use usability practices to design the experience... change clues, add sound to the experience.  Add in images/user experience documentation.
 
 ---
 
@@ -51,8 +51,6 @@ Physical and digital clues
 
 <p align="center"><iframe width="560" height="315" src="https://youtu.be/IHVf7XfxMjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-
-
 ## Uh oh... Houston, we've got 100 problems and this tech is one of them!
 
 Describe changes to the plan after prototyping (includes door locking system, escape room shell - cardboard + tent instead of wood framing + door, touchpad interface - no mac connectivity, used computer with touchscreen instead PC, short throw projector to screen, low-fidelity video instead of realistic graphics to make experience more fun and less serious)
@@ -61,7 +59,9 @@ Describe changes to the plan after prototyping (includes door locking system, es
 
 ## ATLAS EXPO 2022
 
-This expo was coooooool. and here is what setting up was like with progress images.
+Hosted each year by the Roser ATLAS Institute at CU Boulder, the EXPO is an opportunity for students of ATLAS to demonstrate their work.  This year, over 70 groups presented their work to the public in areas of robotics, usability, social impact, and creative technology.  We elected to present our exhibit at EXPO this year which added to complex nature of our project.  With only 8am-4pm available for setup the day of the event, our project had to be sleek and slim enough to build and present in a very limited timeframe.
+
+Let's take a look at the progress of the build!
 
 <p align="center"><img src="/images/cardboard2.jpg"></p>
 <p align="center"><img src="/images/cardboard1.jpg"></p>
