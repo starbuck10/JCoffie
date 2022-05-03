@@ -9,7 +9,7 @@ featured_image: '/images/team.jpg'
 ## Introduction to our Project
 
 Text here and images from the deck.
-<!--
+
 ---
 
 ## Let's meet the team!
@@ -88,4 +88,4 @@ Text and videos of the walkthrough.
 
 What'd we learn from the experience?
 
- // <p align="center"><img src="/images/team.jpg"></p> -->
+<p align="center"><img src="/images/team.jpg"></p>
