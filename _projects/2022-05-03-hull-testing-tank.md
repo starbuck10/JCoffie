@@ -2,7 +2,7 @@
 title: 'Project: Pier Pressure'
 subtitle: 'A proof of concept for rapid boat hull design prototyping'
 date: 2022-05-03 06:00:00
-description: Developing a proof of concept for rapid boat hull design prototyping
+description: Developing a proof of concept for rapid boat hull design prototyping using Arduino
 featured_image: '/images/expoTank.jpg'
 ---
 
