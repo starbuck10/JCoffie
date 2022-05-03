@@ -6,7 +6,7 @@ description: Designing and building an interactive and impactful exhibit
 featured_image: '/images/team.jpg'
 ---
 
-## Introduction to our Project
+## Introduction to our Project 
 
 Text here and images from the deck.
 
@@ -15,8 +15,6 @@ Text here and images from the deck.
 ## Let's meet the team!
 
  <p align="center"><img src="/images/teamBio.jpg"></p>
-
- Team biographies need to be added here.  
 
 ---
 
@@ -84,6 +82,7 @@ Text and videos of the walkthrough.
 <p align="center"><iframe width="560" height="315" src="https://youtu.be/7smKn1JFwfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p align="center"><iframe width="560" height="315" src="https://youtu.be/4A5fm4XZ2uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 ---
 
 ## Lessons learned
