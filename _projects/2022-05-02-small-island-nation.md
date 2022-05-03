@@ -43,6 +43,9 @@ Simultaneously, we worked on developing the projection of our small island natio
 
 Although brief in this exhibit, we did use usability practices to design the experience... change clues, add sound to the experience.  Add in images/user experience documentation.
 
+<p align="center"><img src="/images/clueTest.jpg"></p>
+<p align="center"><img src="/images/userFeedback.jpg"></p>
+
 ---
 
 ## Developing Clues in the Escape Room
