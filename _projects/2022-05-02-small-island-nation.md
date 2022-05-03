@@ -111,7 +111,7 @@ Let's take a look at the progress of the build!
 
 ## The final product
 
-Text and videos of the walkthrough.
+After a grueling and incredibly fast 6 hours, we had our final exhibit for display at EXPO.  The result was more than we expected and the welcome was phenomenal.  Although we determined that the initial appearance and design as an escape room would be a bit more instructive and deliberate, the final project was much better suited to the venue and we saw hundreds of guests during the two hours window of exhibit time.  Here's a look at the final product:
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/7smKn1JFwfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
