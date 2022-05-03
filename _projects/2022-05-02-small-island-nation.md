@@ -32,7 +32,7 @@ The purpose of the project is to create an experience where visitors to the exhi
 
 Our prototyping progress update - culmination of clue layout and the realization that we have a bit of game design left to do:
 
-<p align="center"><iframe width="560" height="315" src="https://youtu.be/c-PtrmBeKns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/c-PtrmBeKns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Simultaneously, we worked on developing the projection of our small island nation going under water to add suspense to the game design.  Preetum developed a layered P5js sketch to build up the scene and the layering progress can be seen here:
 
@@ -52,7 +52,7 @@ Although brief in this exhibit, we did use usability practices to design the exp
 
 Physical and digital clues
 
-<p align="center"><iframe width="560" height="315" src="https://youtu.be/IHVf7XfxMjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/IHVf7XfxMjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ---
 
@@ -76,7 +76,7 @@ Let's take a look at the progress of the build!
 <p align="center"><img src="/images/arduino.jpg"></p>
 <p align="center"><img src="/images/julia.jpg"></p>
 
-<p align="center"><iframe width="560" height="315" src="https://youtube.com/shorts/S3YzDiQ1sOQ?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="375" height="667" src="https://www.youtube.com/embed/S3YzDiQ1sOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ---
 
@@ -84,9 +84,9 @@ Let's take a look at the progress of the build!
 
 Text and videos of the walkthrough.
 
-<p align="center"><iframe width="560" height="315" src="https://youtu.be/7smKn1JFwfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/7smKn1JFwfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<p align="center"><iframe width="560" height="315" src="https://youtu.be/4A5fm4XZ2uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/4A5fm4XZ2uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ---
 
