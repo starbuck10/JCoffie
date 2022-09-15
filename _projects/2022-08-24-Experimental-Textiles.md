@@ -74,7 +74,7 @@ Overall, the build measures about a finger-span long and about 1.25” W. I find
 
 <b>Reflection</b>
 
-I found this hand-on introduction to looming to be really fun and just what I needed to see how each component of the loom contributes to the design. I learned a few wrong techniques and began to find a rhythm when I started to understand how the heddles had to work together for increased efficiency. I had such a blast with this assignment that I actually built a smaller one with my daughter Emmalyn and we started her own textile too (Figure 7)! I should probably figure out how we keep the textile together while off the book before I get too much further...
+I found this hands-on introduction to looming to be really fun and just what I needed to see how each component of the loom contributes to the design. I learned a few "less-than-desirable" techniques and began to find a rhythm when I started to understand how the heddles had to work together for increased efficiency. I had such a blast with this assignment that I actually built a smaller one with my daughter Emmalyn and we started her own textile too (Figure 7)! I should probably figure out how we keep the textile together while off the book before I get too much further...
 
 <p align="center"><img src="/images/weekly2_7.jpeg"></p>
 
