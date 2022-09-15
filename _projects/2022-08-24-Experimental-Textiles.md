@@ -76,3 +76,44 @@ Overall, the build measures about a finger-span long and about 1.25” W. I find
 I found this hand-on introduction to looming to be really fun and just what I needed to see how each component of the loom contributes to the design. I learned a few wrong techniques and began to find a rhythm when I started to understand how the heddles had to work together for increased efficiency. I had such a blast with this assignment that I actually built a smaller one with my daughter Emmalyn and we started her own textile too (Figure 7)! I should probably figure out how we keep the textile together while off the book before I get too much further...
 
 <p align="center"><img src="/images/weekly2_7.jpeg"></p>
+
+---
+
+## Weekly 3 - Warp and Weave
+
+<b>What I am setting out to do:</b>
+
+On this assignment, I worked with my partner Dover to weave a couple of yards of cloth at about 8” wide - we each independently wove the following: 3, 3-4” sections that experiment with a different technique, 2 inches of a tabby between each section, and integrated at least 12” of conductive thread into each experiment sections’ weave using a different technique that we make up.  The purpose of this assignment is to get comfortable with the weaving process and to play with the base structure, allowing us to study these created fabrics in person in class.
+
+<b>Process Notes</b>
+
+I was the second one on the loom for this assignment and Dover already created a bit of a color scheme with the portion they wove on the loom - for this reason, I wanted to create a bit of contrast between the two sections to make it easily distinguishable and also to experiment with something that I haven’t played with before.  I decided to pass my weft through the warp but then also loop it around the upper portion of the warp and back through, creating almost individual knots on each weft pass and leaving a portion of yarn exposed.  I wanted to see how difficult it would be to craft a wearable textile and to determine how well those individual threads could be used in that fashion.  I also decided to use a color advancing, wool yarn to give some fall colorization to the experience.  Within the weave itself, the color change is quite striking and produces a nice feel to the variation.  Inside this weave is a linear interweaving of conductive yarn that could theoretically be used while this part of the fabric is worn by the end use - excited to see how this use adapts and changes as I learn more and more about the weaving process.
+
+<p align="center"><img src="/images/weekly3_1.jpeg"></p>
+<p align="center"><img src="/images/weekly3_2.jpeg"></p>
+
+Following this section, I created just over an inch of plain white wool tabby, experimenting with twist and how tightly I pressed each weft into the row before it.  This created a some imagery in the final tabby section that was unexpected and gives a nice break to the naturally bland beige color that is natural wool.
+
+<p align="center"><img src="/images/weekly3_3.jpeg"></p>
+<p align="center"><img src="/images/weekly3_4.jpeg"></p>
+
+The next section that I experimented with began as a combination of corded jewelry nylon twisted around a longer stretch of conductive yarn.  With this one, I wanted to see if it was possible to rely on the strength of the nylon for the structure of the cloth while still able to pass a loose conductive yarn through.  After a few wefts, I transitioned into more 3d fabric, skipping different warps to create elevated patterns that could prove useful in wearable textiles using a purple, cotton hybrid yarn I found at Art Parts.  The looping structure seems strong enough to use as an attachment hook for the end user to wear.
+
+<p align="center"><img src="/images/weekly3_5.jpeg"></p>
+<p align="center"><img src="/images/weekly3_6.jpeg"></p>
+
+After the next ~2” of tabby using white wool, I jumped into a bit more of the three dimensional fabric world and decided to try some larger, decorative loops and even a woven pocket.  The pocket would require some additional micro-looming to finish up (consider those black jewelry nylon wefts as a sideways warp and I think you could reinforce them as woven pockets!) But it does appear to be functional.  I also played around a bit with spacing and the like to see if you could control the depth of the pocket after a few more lines are woven into the textile (turns out it’s pretty fixed in place after that point).  
+
+<p align="center"><img src="/images/weekly3_7.jpeg"></p>
+<p align="center"><img src="/images/weekly3_8.jpeg"></p>
+
+This was the end of the required portions of the assignment but because I was having a blast trying different things, I decided to keep going and grab Dover and I that extra credit for going to the end of the loom.  Here are a couple of other things I played around with on this assignment:
+
+<p align="center"><img src="/images/weekly3_9.jpeg"></p>
+<p align="center"><img src="/images/weekly3_10.jpeg"></p>
+<p align="center"><img src="/images/weekly3_11.jpeg"></p>
+<p align="center"><img src="/images/weekly3_12.jpeg"></p>
+
+<b>Reflection</b>
+
+This was a really fun exercise in learning the tabletop cricket loom and beginning to experiment with different weft patterns.  I’m really intrigued to see what other teams developed and I REALLY want to buy one of these now.  It was really therapeutic and I enjoyed thinking up new ways that I could experiment with the possibilities.
