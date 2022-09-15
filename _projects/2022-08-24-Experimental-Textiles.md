@@ -54,23 +54,23 @@ The first thing I did was construct the loom by following the instructional vide
 
 Because I wanted to explore different interviewing with the weft to determine the technical components of the build, I decided to transition the weave pattern every couple of passes to experiment with differing conditions. The first pattern, a simple back and forth between the raw silk and the turquoise yarn transitions into just turquoise and then just raw silk (Figure 2).
 
-<p align="center"><img src="/images/weekly2_2.jpg"></p>
+<p align="center"><img src="/images/weekly2_2.jpeg"></p>
 
 Following this simple beginning, I staggered a few rows of the weft back and forth and then began interweaving the conductive yarn. Once this was done for a few rows, I transitioned to a half conductive yarn and half raw silk and then back to dedicated turquoise (Figure 3). This process created a look on the textile that resembled a cloud and I thought it was a neat nod to the story of the book.
 
-<p align="center"><img src="/images/weekly2_3.jpg"></p>
+<p align="center"><img src="/images/weekly2_3.jpeg"></p>
 
 Next, I interwove the conductive yarn in a couple of more rows because I was curious about whether I should terminate that thread and tuck it or carry it up along the edge. The reasoning was that if I wanted to send signal along any of these bands to another, they would need to be interconnected. In the future, however, I think I would weave this thread into the passing warp rows to hide it and keep it from getting snagged (Figure 4).
 
-<p align="center"><img src="/images/weekly2_4.jpg"></p>
+<p align="center"><img src="/images/weekly2_4.jpeg"></p>
 
 Finally, I ended the weave with more raw silk work and a final bit of conductive yarn. I liked this pattern because it resembled waves breaking against the shore and was a nice way to end this assignment (Figure 5).
 
-<p align="center"><img src="/images/weekly2_5.jpg"></p>
+<p align="center"><img src="/images/weekly2_5.jpeg"></p>
 
 Overall, the build measures about a finger-span long and about 1.25” W. I find the pattern soothing although I can distinguish areas of inconsistent tension and a gradual narrowing of the warp as the weave continued. Once I realized that this tension was too much, I decided to begin experimenting with how the warp would lay given more tension as it progressed. The weave certainly changed in feel and texture and the distinction between colors became more obvious (Figure 6).
 
-<p align="center"><img src="/images/weekly2_6.jpg"></p>
+<p align="center"><img src="/images/weekly2_6.jpeg"></p>
 
 <b>Reflection</b>
 
