@@ -8,7 +8,8 @@ featured_image: '/images/sweater.jpg'
 
 ## Weekly 1 - Learning how to Document Textiles
 
-For my documentation setup, I’m going to use my desk (image 1) to lay out my prototypes and textiles for documentation by relocating the printer (and fan) - I have overhead light in this space underneath the shelving as well as accent lighting and controllable natural light, so it’s ideal for this process.  I also purchased a 20x macro lens to get close-up images and the kit came with a couple of other lens that I can use to see if they will help with the documentation process as well (link: shorturl.at/bhmU0).
+For my documentation setup, I’m going to use my desk (image 1) to lay out my prototypes and textiles for documentation by relocating the printer (and fan) - I have overhead light in this space underneath the shelving as well as accent lighting and controllable natural light, so it’s ideal for this process.  I also purchased a 20x macro lens to get close-up images and the kit came with a couple of other lens that I can use to see if they will help with the documentation process as well (link: shorturl.at/bhmU0).  I have found that this setup is quite tempormental so
+I may need to switch to the macro lens on a DSLR in future weeklies.
 
 <p align="center"><img src="/images/weekly1_1.jpeg"></p>
 
