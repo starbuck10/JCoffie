@@ -14,7 +14,7 @@ For my documentation setup, I’m going to use my desk (image 1) to lay out my p
 
 <b>Woven Object Exploration</b>
 
-The object I wanted to explore for this assignment was a camel wool blanket that I purchased in Kandahar, Afghanistan when I was stationed there in support of Operation: Enduring Freedom.  I purchased the blanket at a bazaar and actually traded an American watch for it with the merchant - it’s a very simple design and after 10 years, it has a bit of shed but it still holding up strong.
+The object I wanted to explore for this assignment was a camel wool blanket that I purchased in Kandahar, Afghanistan when I was stationed there in support of Operation: Enduring Freedom.  I purchased the blanket at a bazaar and actually traded an American watch for it with the merchant - it’s a very simple design and after 10 years, it has a bit of shed but is still holding up strong.
 
 <p align="center"><img src="/images/weekly1_2.jpeg"></p>
 
@@ -43,6 +43,7 @@ The assignment for the week is to watch a Youtube video on making a loom using a
 5. And weave something that relates to the contents of the book
 The last requirement of the assignment is to ask ourselves what else we could make a loom out of.
 My approach is to use one of my hardcover sailing books and to play around with an ocean theme throughout the assignment. I chose a turquoise for the warp as well as for one of the wefts and accompanied that color with a natural raw silk and gold/brown ductile yarn. The idea is that the gold/brown could play as land, as viewed from above, the turquoise would be the ocean, and the natural raw silk tan coloration could play almost white as clouds or even as waves, depending on how each of the patterns surfaces.
+
 A couple of things I wanted to explore were: how many differing patterns you could generate and how they should be woven to transition between them simply by using an alternating warp lift, the technicality of how each weft begins and ends (is it best to cut yarn and reinsert or to carry along the outer edging?), and discover how tension in the yarn can affect the weave pattern as a whole.
 
 <b>Process Notes</b>
