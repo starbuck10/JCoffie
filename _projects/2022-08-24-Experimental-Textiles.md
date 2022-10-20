@@ -124,4 +124,70 @@ This was a really fun exercise in learning the tabletop cricket loom and beginni
 
 ## Weekly 4 - Dynamic wefts
 
-<b>Coming Soon!</b>
+<b>What I am setting out to do:</b>
+
+Assignment Requirements:
+
+1. Re-warp the loom with 40-50 warps using the 3/2 pearl cotton yarn provided in class. Use string heddles to create four frames in a straight draw (this is following an attempt to use safety clips previously),
+2. Collect some materials to weave with that you wouldn’t typically consider to be “yarn”,
+3. Experiment with methods to integrate your material into the woven structure, and
+3. Play with different functional and aesthetic possibilities and when you found a structure you like, weave 3" of it with tabby on either side. Document the structure you created in AdaCAD.org and include it in your weekly.
+
+What I’d like to continue to play around with during this weekly assignment is building structures that hold their form and could provide protection for someone wearing them.  This is why I’ve selected a twisted danish cord and metal jewelry wire for my experimental weaves this week.  The idea is that I can see how these materials behave (how tightly I can keep each row, how they interact with the warp, etc.) and also experiment with extrusions from the cloth that could be used to hold or manage sensors.  Here is a sketch of what I am exploring:
+
+<p align="center"><img src="/images/concept.png"></p>
+
+<b>Process Notes</b>
+
+<b>Re-warping</b>
+
+Beginning with the re-warping - we used a new method in class that uses a draw string harness but as we only had two available, many of us created our own versions.  For our version, we used a pair of clamps and a pair of dowels to replicated the harness and proceed to create our figure eight in order to keep the yarn in order throughout the warping process.  This figure eight was created using two skewers taped together and was maintained throughout the warping process to keep alignment.
+
+<p align="center"><img src="/images/weekly4_1.jpeg"></p>
+<p align="center"><img src="/images/weekly4_2.jpeg"></p>
+
+In the first iteration of building our own frames, we used safety pins (Figure 3) but found that these safety pins were a bit too large for the diameter of yarn, resulting in many warps escaping their frames and proving rather frustrating.  This led us to use string based frames and we found out very quickly how easy it is to loose track of individual warps and have to suffer through an imperfect framing setup while weaving.  We rethreaded the frames three times before deciding that we had best let the warp work itself out and see if we could still learn anything from the process, following the safety pin attempt.   
+
+<p align="center"><img src="/images/weekly4_3.jpeg"></p>
+
+<b>Materials</b>
+
+I went to Art Pats in Boulder for my material selection for this assignment.  I selected a variety of items including:
+
+1. Japanese Mizuhiki cord,
+2. Lightly spun natural colored wool (used this for my tabby weaving),
+3. A giant zipper,
+4. Twisted Danish cord,
+5. Coated jewelry wire,
+6. A photograph that I eventually cut into strips, and
+7. A fabric ribbon with dangling balls sewn onto it.
+
+My original intention for the assignment was to use the strips of photographs as a weft to create wearable imagery but I later decided this didn’t interest me as much as it did when I purchased it for some reason. Instead, I felt more drawn to the twisted cord and the jewelry wire as functional textiles and decided to give these a go.  I did notice that getting creative with wefts is pretty tough as you need a flexible and long fiber capable of stress and keeping and/or changing form.  It seemed to me that there is a definitive departure from manufacturing textiles when you choose something that can’t be woven for more than one row and elected to go with my materials of choice.
+
+<b>Weaving</b>
+
+It was a bit obvious from the warping phase that we would run into issues with a consistent pattern of warps exposed per frame lift.  To make matters worse, I also used a very fluffy fiber for my weft, using a lightly spun wool that didn’t help in keeping the patterning clean.  Often, the warps and wefts would entangle themselves in the frame yarn and keep warps elevated (or descended) and many different “loose” warps surfaced, even in the beginning tabby weave.  I decided to continue along and do a few more rows of individual heddle lifts  and hope to straighten out the warp structure.
+
+<p align="center"><img src="/images/weekly4_4.jpeg"></p>
+<p align="center"><img src="/images/weekly4_5.jpeg"></p>
+
+After completing 3” of tabby, I started on part one of my unusual weft assignment and began weaving through jewelry wire.  It was interesting in that I could keep the width of the textile even with very sharp turn-arounds with each pass but the thickness of each weft in the cloth was problematic.  Curious as to effect of wire against a fragile warp, I decided to try out using floats in the middle of the textile for my functional attachment loops and created a fairly gentle loop in the wire and reinserted after skipping the 4 middle warps.  I concluded that if I were going to place a bunch of string on a particular warp it would be best for that strain to be toward the middle of the cloth so as to provide a maximum safety margin between edges.
+
+<p align="center"><img src="/images/weekly4_6.jpeg"></p>
+
+After weaving the jewelry wire, I was able to shape the textile and have it maintain its form, which is exactly what I was hoping to achieve.  An unexpected benefit of the additional wire loops, however, was how it allow the cloth to stretch in that area more than in other areas, something that could be looked at further if attempting to account for joints of points of flex in designing clothing (think, accounting for an elbow).
+
+The next experimental material was twisted danish cord.  I found myself admiring it as a material for its resistance to compression and wanted to see if it could provide marginal protection against protruding objects by simply weaving it into the class with varying amounts of warp/weft exposure.  I begin using a tabby weave and quickly ascertained how well this material worked as a weft while only using 1 in every 4 warps (Figure 7).  The textile remained rigid on the exterior but when more weft was exposed, the softness of the reverse side of the cloth attested to the value of being able to integrate this material into a cloth without too much skin irritation.
+
+<p align="center"><img src="/images/weekly4_7.jpeg"></p>
+
+After completing the experiment with the danish cord, I wove 4” of tabby, 3” for the assignment and 1” for cutting off and re-warping.  Needless to say, I cut off each of the four frames during rewarping and completely reassembled the loom for our next assignment.
+
+Documenting
+ The experimental portion that I wanted to document was the jewelry wire - I find this weft so fascinating because of the malleability of the wire.  You can stretch and bend this wire many times without it becoming rigid or brittle and it takes very little effort to see this effect.  In this documentation, I wanted to show the variations on the heddle lifts as well as the float in the middle for the hook like structure.
+
+<p align="center"><img src="/images/AdaCAD4.jpeg"></p>
+
+<b>Reflection</b>
+
+The yarn used in creating yarn-based frames like used above must have very little tendency to cling to adjacent yarns in order to be effective and not completely stressful as a substitute for traditional frames.  I rewarped the loom already for the next assignment and rebuilt all of the frames in the process and found that this new fiber holds up to wear quite a bit more (it’s hemp) and also slides easier along the cotton (Figure ).  I will be interested to see if this is an easier way to use more frames given that the frame is less likely to attach to the warp.
