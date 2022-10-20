@@ -183,7 +183,7 @@ The next experimental material was twisted danish cord.  I found myself admiring
 
 After completing the experiment with the danish cord, I wove 4” of tabby, 3” for the assignment and 1” for cutting off and re-warping.  Needless to say, I cut off each of the four frames during rewarping and completely reassembled the loom for our next assignment.
 
-Documenting
+<b>Documenting</b>
  The experimental portion that I wanted to document was the jewelry wire - I find this weft so fascinating because of the malleability of the wire.  You can stretch and bend this wire many times without it becoming rigid or brittle and it takes very little effort to see this effect.  In this documentation, I wanted to show the variations on the heddle lifts as well as the float in the middle for the hook like structure.
 
 <p align="center"><img src="/images/AdaCAD4.jpeg"></p>
@@ -191,3 +191,76 @@ Documenting
 <b>Reflection</b>
 
 The yarn used in creating yarn-based frames like used above must have very little tendency to cling to adjacent yarns in order to be effective and not completely stressful as a substitute for traditional frames.  I rewarped the loom already for the next assignment and rebuilt all of the frames in the process and found that this new fiber holds up to wear quite a bit more (it’s hemp) and also slides easier along the cotton (Figure ).  I will be interested to see if this is an easier way to use more frames given that the frame is less likely to attach to the warp.
+
+## Weekly 5 - Embodying Weave Structure, Making Swatches
+
+<b>What I am setting out to do:</b>
+
+This is a 2-week weekly assignment that consists of the following parts:
+
+1. Complete the reverse drafting worksheet with a swatch that will be provided to you in class. Follow each step on the worksheet carefully and make notes and comments about what you learned through this process in your weekly write up. Please bring your physical worksheet to class on Oct 10 for grading as part of this weekly.
+2. Find a different woven sample and try to come up with an explanation of how it was drafted. What structures were used in what combinations. Use terminology from weaving in your explanation such as interlacement, float, tabby, twill, satin, etc.
+3. Spend 2 hours weaving on the 8-shaft loom (an appointment calendar is available via Canvas). Listen to your favorite album, weave something that reminds you of the music. Focus on the feel, giving yourself room to play. Leave your work on the loom and weave a 2" tabby header after your work to prep the loom for the next person. Include images of what you made and how you went about doing it
+
+Bonus: As you weave on the 8 shaft, somehow integrate two separate conductive yarns such that when you move the swatch (fold, stretch, twist), the two threads connect and conduct electricity. Include images of what you made and how you went about doing it
+
+Here are my thoughts on the assignment and each of its parts:
+
+1. Not much planning for this one, apart from getting a unique swatch.  I know that I’ll get more comfortable with drafting with practice so I’m hoping to get one that changes structures often.
+2. I’d like to give this analysis a try on a woven fabric that I can’t take apart.  I’m not sure why, but I feel like it would be useful to get some practice learning from things that can’t be decomposed.  For this reason, I will most likely pick the woven blanket from the first assignment and analyze the decorative banding around the outside.
+3. I’m really excited for this one - I’ve really come to enjoy weaving and playing with an 8-shaft for a few hours would be really great.  I’ve been quite curious about creating larger textiles with more complex patterns and my mind often wanders to what I could create using this more complex style loom while introducing biological and regenerative materials.  I’m thinking I’ll pick an album from my youth and pick a night slot on the loom so I can weave without worrying about interruptions.  
+4. Bonus: I haven’t tried integrating the yarn in a way that is as near as invisible as possible and I’d like to create two “buttons” that are across from one another.  As I’m not familiar with the tie-up of this loom quite yet, I’m wondering if I will have to be flexible with how I integrate this yarn, particularly if both sides of the textile have very differing shaft configurations.
+
+<b>Process Notes</b>
+
+The first part of this assignment is working with the swatch and building a draft plan to determine how the textile was made.  I chose a particularly troublesome cloth (from my amateur perspective, that is) but wanted as many color variations as possible to help keep the individual warps and weft picks as easily visible as possible.  It turned out, however, that the variation in colors didn’t make it a lick easier as the beating process pushed the picks together in a way that they overlapped significantly and pulling out each one for documentation inevitably pulled the adjacent pick out with it.  Needless to say, I had to make some manual error corrections looking at the original cloth picture after the fact and leveraging the knowledge this was produced on an 8-frame loom and not one with more frames.  Here is an image of the cloth that I was working with:
+
+<p align="center"><img src="/images/weekly5_1.jpeg"></p>
+
+I rotated the cloth 90* clockwise for the exercise and the variation in so many structures over a small area also proved difficult to navigate for the task - each pulled thread made the textile noticeably less stable and I often found that I was pushing weft picks back into place while attempting to restore them to their original place.  Overall, the activity was very informative and I finally have a handle on how to build a drafting plan out of a sample textile.
+
+I worked through the draft by hand with pencil/paper at first and quickly migrated to excel/numbers as it kept my thoughts in order better than the erase and redraw method of doing it by hand.  After analyzing the threads, the next step was to draw the tie-up plan - this process was particularly difficult because of the overlap of weft picks. However, by going through each warp, it became evident that many of the original markings on my sheet were only a single cell off, and by adjusting them to match previous warps, I was able to figure out the pattern and work through any mis-steps.  Here is the final draft!
+
+<p align="center"><img src="/images/weekly5_2.jpeg"></p>
+<p align="center"><img src="/images/weekly5_3.jpeg"></p>
+
+For the other woven object, I decided to choose the Afghan wool blanket that I purchased in a Kandahar bazaar.  The blanket itself is woven using a twill pattern and the border around the outside uses a diamond design twill weave in the center, alternating between tabby and intentional floats to create a consistent pattern - this maximizes interlacement around the edged banding of the blanket while still allowing a less-interlaced twill pattern to hold the majority of the textile’s structure.  The ends of the blanket are a twisted fringe and the material itself is brown, red, and white camel wool - please see the end of this assignment for images.
+
+Probably the most fun I’ve had so far this semester was working on the 8 shaft loom from 8-10pm on a Friday night, throwing picks while listening to music all by myself.  The album of choice? The Classic Crime’s album titled “Phoenix.”  The album was produced in 2012 and denotes the struggle we all face while figuring out life, attempting to become the best versions of ourselves in the process.  It’s a very introspective work of art and something that I remember listening to when it came out.  
+
+For the inspiration of the weave, I feel the album is about the mess and dirtiness of life, about how making mistakes is how we become who we’re meant to be. For me, I see this as natural browns and simple patterns.  The spirit of the album, however, reminds me that even if someone hits absolute rock bottom, the beauty of life is merely around the preverbal corner if they but wait.  This is why I decided to keep most of the patterns simple but wanted to experiment with simple, flowering beauty near the latter half of the textile to denote the blossoming beauty in each of us.  Let’s take a look at the loom setup:
+
+<p align="center"><img src="/images/weekly5_4.jpeg"></p>
+<p align="center"><img src="/images/weekly5_5.jpeg"></p>
+<p align="center"><img src="/images/weekly5_6.jpeg"></p>
+
+For the first part of the weave, I wanted to weave a simple tabby to give structure to the cloth and to align the warp yarns following the previous user’s extensive patterns on the loom.  This also gave me an opportunity to get used to an 8 shaft loom when, previously, I only had experience using a single frame loom.  Here is a look at about 2” of tabby to get started and find my groove.  This stretch of tabby was woven using an acrylic, brown yarn and I’m quite glad I started with tabby as it demonstrated that some of the warps were not as taught as they needed to be - I made the adjustments for tension and was able to have a strip of tabby to cut the sample off in the end.
+
+<p align="center"><img src="/images/weekly5_7.jpeg"></p>
+
+Following the tabby, I switched to working with raw silk, also in a lighter, natural, almost brown color.  I began with tabby to lay the write structure for such a thin diameter yarn and began to weave a twill, which is a progression of frames to create a shifting, floating structure.  Once I began a few rows of this silk, I began to also interlace the conductive yarn for bonus credit.
+
+<p align="center"><img src="/images/weekly5_8.jpeg"></p>
+<p align="center"><img src="/images/weekly5_9.jpeg"></p>
+
+After the introduction of the conductive yarn, I decided that I wanted to create two strips of conductive yarn in the next section that was near-to invisible but would conduct and would alter resistance when touched together.  Since the loom tie up was different on each side of the loom, I decided to wave those strands from both ends and only allow them to penetrate about 2” into the middle of the cloth and, when the next frame was raised, locate the closest applicable warp to return under toward the outside edges of the textile.  This created a section approx. 1” x 2” on each side that can be touched together with the use of sensors.
+
+<p align="center"><img src="/images/weekly5_10.jpeg"></p>
+<p align="center"><img src="/images/weekly5_11.jpeg"></p>
+<p align="center"><img src="/images/weekly5_12.jpeg"></p>
+
+The grey yarn is also acrylic and I decided to create an almost twill structure (repeating, anyway) by beginning with the middle shafts (4&5), then working outward (3&6, 2&7, 1&8) and then return back to center (2&7, 3&6, 4&5…) to repeat the process.  This created a diamond pattern structure in the cloth on the left side of the structure and a complex twill like structure on the right.  I chose the grey yarn as a subtle nod to the album about the beauty that can come from life in simple ways.
+
+Here is the final product for my two hours on the loom:
+
+<p align="center"><img src="/images/weekly5_13.jpeg"></p>
+
+<b>Reflection</b>
+
+This was a really enjoyable exercise and I’m really looking forward to using the 8-shaft loom to begin making foldable structures.  I think experimenting with these structures has shown me the power of choosing your tie-up pattern and how you can make seemingly complex patterns with little effort if the planning is done in advance.  I’d also like to explore how to use the conductive yarn is a usable way in the future but I still find my affinity for natural materials after deciding to use almost all acrylic on this assignment.  
+
+<b>Appendix: Camel Wool Blanket Images</b>
+
+<p align="center"><img src="/images/weekly1_2.jpeg"></p>
+<p align="center"><img src="/images/weekly1_3.jpeg"></p>
+<p align="center"><img src="/images/weekly1_4.jpeg"></p>
