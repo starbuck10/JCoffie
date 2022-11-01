@@ -264,3 +264,76 @@ This was a really enjoyable exercise and I’m really looking forward to using t
 <p align="center"><img src="/images/weekly1_2.jpeg"></p>
 <p align="center"><img src="/images/weekly1_3.jpeg"></p>
 <p align="center"><img src="/images/weekly1_4.jpeg"></p>
+
+## Midterm - Experimental Swatches
+
+<b>What I am setting out to do:</b>
+
+<i>Assignment Details: Use the weekly template to describe the process of your midterm. Your documentation should include photos of at least three swatches that you created as you worked on the midterm as well as the drafts for those swatches.
+
+Identify at least three key decision points in your process where you changed plans, tried something new, or developed a new approach to optimize your swatch towards your heuristic.
+
+Describe these in writing. This is the primary place in the assignment where I will grade you on your decisions so provide strong reasoning for why you tried different techniques at different times.
+
+Include a reflection at the end of the documentation about what you would still like to try or what you think you should have done differently. </i>
+
+For my midterm I wanted to play around with dissolvable thread and determine how it would act within a fabric and exposed to water.  Lifejackets for sailors use salt crystals to keep self-inflating vests from inflating with a CO2 cartridge until they are melting away from being soaked in water.  I thought that some other naval purposes could be found by using a sugar based thread/fabric and was curious how different weaving structures would affect the capability of the thread (time to dissolve).  This is what I ended on: I will experiment with structure around dissolvable thread weft picks and will time how long it takes to dissolve each swatch based on their structures to see if structure affects the dissolvable yarn’s dissolution rate. For fun, maybe I can integrate other weft materials to get a pattern to appear after the thread dissolves.
+
+Here is a sketch of the idea:
+
+<p align="center"><img src="/images/midtermIdea.png"></p>
+
+With an understanding that the most entangled weaves (greater amount of interlacements) tend to have the most stable structure, I decided I wanted to produce a tabby structure for testing and I also decided that twill, with its frequent commonality in fabrics, as my second choice.  My third structure, I decided, was to create a basket weave and see how those three compared to a piece of thread dissolving by itself.
+
+<b>Process Notes</b>
+
+With an idea in my mind to begin weaving just three different structures, I felt inspired working with the new floor loom and due to its much quicker speed, was able to add a couple of structures to the assignment to fulfill my curiosity as well adjust my third structure choice.  After setup, I began to see how the thread interwove with the cotton and with Laura’s in-class challenge to see if different shapes could be produced after contact with water, I made my first major adjustment in the project - I would drop the basket weave and begin playing with some conductive yarn and other paired yarns to see if I could alter the final structure.  In the end, I chose the following:
+
+Swatch 1: Floating wefts, using the dissolving thread
+Swatch 2: Floating cotton wefts (to hold structure together after dissolving thread)
+Swatch 3: Tabby Weave with conductive yarn
+Swatch 4: Twill
+Swatch 5: Tabby
+
+For the weaving, I was going to use an 8-shaft table loom and when I showed up for another late shift of fun, our newly warped floor loom was staring me in the face and challenging me to give it a go (second shift in the original plan to use a tabletop loom).  Weaving the structures themselves took about 90 minutes and resulted in approximately 15” of cloth.  The warp fibers were pre-selected and not chosen by me but I thought the color scheme quite bright and vivid for the exercise.  Here is the final resulting fabric on the loom:
+
+<p align="center"><img src="/images/midterm1.jpg"></p>
+
+The weaving was only one small portion of this project as each approx. 3” section of woven cloth would need to yield four samples (three for the swatch assignment and 1 for testing).  After getting the fabric home, I began carving up the pieces into their swatches using a sewing machine.  I originally was going to only produce two samples of each swatch but in my final change in the plan, I realized that I would have difficulty finding something to record the dissolving process in if I went much larger than a 3”x3” swatch.  For this reason, I made my third adjustment to the plan to create smaller and more numerous swatches.  This would also allow me to test more if I found that my results were troubling.
+
+<p align="center"><img src="/images/midterm2.jpg"></p>
+<p align="center"><img src="/images/midterm3.jpg"></p>
+<p align="center"><img src="/images/midterm4.jpg"></p>
+
+After I cut up the swatches into as close to the same size as possible, I then sewed the unbound edges together to keep the swatches in place while testing.  Following the swatch preparation, I prepared the testing area and began preparing for documentation.
+
+<p align="center"><img src="/images/midtermSetup.jpg"></p>
+
+The results of this experiment were quite interesting and not what I expected.  As a start, I tested a single thread to determine the effect I was waiting to see and kept all of the water around the same temperature - 79-80*F.  It became obvious quickly that the thread was made from a sugar based fiber and it created a sticky gel after a few seconds of water contact.  After recording that observation, I recorded the process for each of the structure types.  Here are the results:
+
+| Swatch | Time to Dissolve | Observation |
+|-------|--------|---------|
+| String | 28 Seconds | Kept dissolving after I thought it was finished - seemed to be a result of the thread winding around itself when it started to react to the water |
+| 1 | 30 Seconds | The dissolvable threads grabbed onto each other in a goopy mess and took a while to dissolve.  After 30 seconds, the dissolving ceased into a beautiful spiral structure |
+| 2 | 25 Seconds | This swatch dissolved quickly but closed up like a clam - it didn’t respond as quickly or aggressively as the other swatches as I keep the accompanying cotton strands loose in the structure |
+| 3 | 26 Seconds | Dissolved quickly and bound itself up from corner to corner |
+| 4 | 25 Seconds | Rolled up like a taco in two different directions - this one seemed bound tightly and responded as such when dissolved |
+| 5 | 25 Seconds | Twisted up nicely but not as tightly as expected - it did hold itself together very tightly once dried though, which makes me wonder how much of the sticky thread was absorbed into the cotton warp |
+
+Here are snapshots of the final results:
+
+<p align="center"><img src="/images/midterm5.jpg"></p>
+<p align="center"><img src="/images/midterm6.jpg"></p>
+<p align="center"><img src="/images/midterm7.jpg"></p>
+<p align="center"><img src="/images/midterm8.jpg"></p>
+<p align="center"><img src="/images/midterm9.jpg"></p>
+<p align="center"><img src="/images/midterm10.jpg"></p>
+<p align="center"><img src="/images/midterm11.jpg"></p>
+
+The setup I had held the swatches well but did require them to curl up a little bit - this is definitely an area for future improvement but I found the exercise really fascinating and fun.  Building a textile and cutting it up afterwards was a bit nerve-wracking but now that I’ve completed the process, I really enjoyed it and have already begun to think of how to spin different organic structures into textiles to see how they perform.
+
+If you’re interested in learning more, visit the timed video recordings of this exploration at the following link: <a href="https://youtu.be/WKw2l1g9lRQ"> Youtube Video Here</a>.
+
+<b>Reflection</b>
+
+After completing this assignment, I really enjoyed playing with the different structure and seeing how they behave.  In the future, I’d like to look at changing up the warp to something a little less “grippy”, perhaps recycled plastic, and see if the slick warp fibers would behave like the bonded warp yarns did from the cotton fibers.  Another area I’d like to try exploring if I continued with this experiment would be to see how directed hydration affects structure and if target dissolution of the fabric can be achieved.  
