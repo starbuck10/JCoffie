@@ -271,11 +271,11 @@ This was a really enjoyable exercise and I’m really looking forward to using t
 
 <i>Assignment Details: Use the weekly template to describe the process of your midterm. Your documentation should include photos of at least three swatches that you created as you worked on the midterm as well as the drafts for those swatches.
 
-Identify at least three key decision points in your process where you changed plans, tried something new, or developed a new approach to optimize your swatch towards your heuristic.
+<i>Identify at least three key decision points in your process where you changed plans, tried something new, or developed a new approach to optimize your swatch towards your heuristic.
 
-Describe these in writing. This is the primary place in the assignment where I will grade you on your decisions so provide strong reasoning for why you tried different techniques at different times.
+<i>Describe these in writing. This is the primary place in the assignment where I will grade you on your decisions so provide strong reasoning for why you tried different techniques at different times.
 
-Include a reflection at the end of the documentation about what you would still like to try or what you think you should have done differently. </i>
+<i>Include a reflection at the end of the documentation about what you would still like to try or what you think you should have done differently.
 
 For my midterm I wanted to play around with dissolvable thread and determine how it would act within a fabric and exposed to water.  Lifejackets for sailors use salt crystals to keep self-inflating vests from inflating with a CO2 cartridge until they are melting away from being soaked in water.  I thought that some other naval purposes could be found by using a sugar based thread/fabric and was curious how different weaving structures would affect the capability of the thread (time to dissolve).  This is what I ended on: I will experiment with structure around dissolvable thread weft picks and will time how long it takes to dissolve each swatch based on their structures to see if structure affects the dissolvable yarn’s dissolution rate. For fun, maybe I can integrate other weft materials to get a pattern to appear after the thread dissolves.
 
@@ -297,7 +297,7 @@ Swatch 5: Tabby
 
 For the weaving, I was going to use an 8-shaft table loom and when I showed up for another late shift of fun, our newly warped floor loom was staring me in the face and challenging me to give it a go (second shift in the original plan to use a tabletop loom).  Weaving the structures themselves took about 90 minutes and resulted in approximately 15” of cloth.  The warp fibers were pre-selected and not chosen by me but I thought the color scheme quite bright and vivid for the exercise.  Here is the final resulting fabric on the loom:
 
-<p align="center"><img src="/images/midterm1.jpg"></p>
+<p align="center"><img src="/images/Midterm1.jpg"></p>
 
 The weaving was only one small portion of this project as each approx. 3” section of woven cloth would need to yield four samples (three for the swatch assignment and 1 for testing).  After getting the fabric home, I began carving up the pieces into their swatches using a sewing machine.  I originally was going to only produce two samples of each swatch but in my final change in the plan, I realized that I would have difficulty finding something to record the dissolving process in if I went much larger than a 3”x3” swatch.  For this reason, I made my third adjustment to the plan to create smaller and more numerous swatches.  This would also allow me to test more if I found that my results were troubling.
 
