@@ -301,9 +301,9 @@ For the weaving, I was going to use an 8-shaft table loom and when I showed up f
 
 The weaving was only one small portion of this project as each approx. 3” section of woven cloth would need to yield four samples (three for the swatch assignment and 1 for testing).  After getting the fabric home, I began carving up the pieces into their swatches using a sewing machine.  I originally was going to only produce two samples of each swatch but in my final change in the plan, I realized that I would have difficulty finding something to record the dissolving process in if I went much larger than a 3”x3” swatch.  For this reason, I made my third adjustment to the plan to create smaller and more numerous swatches.  This would also allow me to test more if I found that my results were troubling.
 
-<p align="center"><img src="/images/midterm2.jpg"></p>
-<p align="center"><img src="/images/midterm3.jpg"></p>
-<p align="center"><img src="/images/midterm4.jpg"></p>
+<p align="center"><img src="/images/midterm2.jpeg"></p>
+<p align="center"><img src="/images/midterm3.jpeg"></p>
+<p align="center"><img src="/images/midterm4.jpeg"></p>
 
 After I cut up the swatches into as close to the same size as possible, I then sewed the unbound edges together to keep the swatches in place while testing.  Following the swatch preparation, I prepared the testing area and began preparing for documentation.
 
