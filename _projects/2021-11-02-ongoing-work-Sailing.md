@@ -83,4 +83,9 @@ So we have that forestay to replace and another coat of epoxy on the wood and we
 
 ---
 
-## Next update coming soon!
+Alright, got her in the water for this season and boy is she fast!  Here she is!  The kiddos love her and I couldn't think of a better boat for them to grow up with to learn to sail!
+
+<p align="center"><img src="/images/babyboat.jpg"></p>
+<p align="center"><img src="/images/babyboat2.jpg"></p>
+<p align="center"><img src="/images/babyboat3.jpg"></p>
+<p align="center"><img src="/images/shoesboat.jpg"></p>
