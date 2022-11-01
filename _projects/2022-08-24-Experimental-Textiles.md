@@ -135,7 +135,7 @@ Assignment Requirements:
 
 What I’d like to continue to play around with during this weekly assignment is building structures that hold their form and could provide protection for someone wearing them.  This is why I’ve selected a twisted danish cord and metal jewelry wire for my experimental weaves this week.  The idea is that I can see how these materials behave (how tightly I can keep each row, how they interact with the warp, etc.) and also experiment with extrusions from the cloth that could be used to hold or manage sensors.  Here is a sketch of what I am exploring:
 
-<p align="center"><img src="/images/concept.png"></p>
+<p align="center"><img src="/images/Concept.png"></p>
 
 <b>Process Notes</b>
 
