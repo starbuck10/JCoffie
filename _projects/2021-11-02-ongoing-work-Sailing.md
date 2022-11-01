@@ -89,3 +89,7 @@ Alright, got her in the water for this season and boy is she fast!  Here she is!
 <p align="center"><img src="/images/babyboat2.jpg"></p>
 <p align="center"><img src="/images/babyboat3.jpg"></p>
 <p align="center"><img src="/images/shoesboat.jpg"></p>
+
+First sail results are in.  Woah is she fast.
+
+Second sail results are in.  She's VERY sensitive to the wind.  Capsized her on the second trial day as an oversteer on a tack resulted in the back quarter being exposed to a 30 mph gust.  Due to the sail area, she went over quickly.  Thankfully CPW was nearby and able to help us tow her back in.  Turtle, anyone?...  :-)
