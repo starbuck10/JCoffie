@@ -36,15 +36,15 @@ Lighting: FastLED for water-resistant flickering LED lamps and used a standard b
 
 <p align="center"><img src="/images/IMG_3027.png"></p>
 
-Printing: Glow-in-the-dark PLA with 3d prnting and designs for homes, mushrooms, bridge, cliff support, and accents
+Printing: Glow-in-the-dark PLA with 3d printing and designs for homes, mushrooms, bridge, cliff support, and accents
 
 <p align="center"><img src="/images/IMG_3018.png"></p>
 
-Soil: Natural clay, modeling clay for cliff for flexibility, dung soil, and coco coir for top layer and small stones for pathway.  I did spend some time painting the modeling clay with acrylic paints to keep it from being soo one dimensional as well.
+Soil: Natural clay, modeling clay for cliff for flexibility, dung soil, and coco coir for top layer and small stones for pathway.  I did spend some time painting the modeling clay with acrylic paints to keep it from being so one dimensional as well.
 
 Water: Syringe and living sponge
 
-Construction methods: Hand-sculpted clay, drill press for impregnating log with mycelium spores, polyfill for filtration, acrylic top using glue gun to hold components in place, acrylics and airbrush/hand brushing to add detail, and a large, 550 mL catheter syringe and surgical tubing to add water to display without contamination
+Construction methods: Hand-sculpted clay, drill press for impregnating log with mycelium spores, poly-fill for filtration, acrylic top using glue gun to hold components in place, acrylics and airbrush/hand brushing to add detail, and a large, 550 mL catheter syringe and surgical tubing to add water to display without contamination
 
 Arduino: two fans to control humidity levels and code to run lighting - here is the code if you'd like to see it!
 
@@ -57,13 +57,13 @@ Humidity!!!  Yes, with humidity comes great ability to not see into the exhibit.
 <p align="center"><img src="/images/top of tank.png"></p>
 <p align="center"><img src="/images/back of tank edited.png"></p>
 
-Water, water, WATER!  Living things need water, silly!  Well, I didn't think this one through because I expected the close system to keep moisture but that moisture leaks and the biological components also consume that water.  Well, enter the syringe and spone idea to keep things moist and to keep the water from spreading throughout the exhibit.
+Water, water, WATER!  Living things need water, silly!  Well, I didn't think this one through because I expected the close system to keep moisture but that moisture leaks and the biological components also consume that water.  Well, enter the syringe and natural sponge idea to keep things moist and to keep the water from spreading throughout the exhibit.
 
 <p-align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/yxZ6Z6N"  ><a href="//imgur.com/a/yxZ6Z6N">Water Filling of Exhibit for Final Project</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></p>
 
 ## Mycelium
 
-Growing the mycelium was AWESOME.  It was a really neat process and I was able to experiment with silicon molds as well as different substrates to help the organism grow.  I decided to use both blue and pink oyster mushrooms for this exhibit and ended up using the pink within the display.  When the UV lights are off, you can actually see the pink mycelium spreading throughout the tank.  Here are some images of the myceliym as it began to grow!
+Growing the mycelium was AWESOME.  It was a really neat process and I was able to experiment with silicon molds as well as different substrates to help the organism grow.  I decided to use both blue and pink oyster mushrooms for this exhibit and ended up using the pink within the display.  When the UV lights are off, you can actually see the pink mycelium spreading throughout the tank.  Here are some images of the mycelium as it began to grow!
 
 And finally, this is what my collection looks like today with the rest of the leftover growth not used in the exhibit.  Just giving them a few more weeks to take hold and see what we discover before planting the excess for fruit!  Woohoo!  
 
