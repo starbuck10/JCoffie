@@ -6,9 +6,9 @@ description: A reverse, Giving Tree thought-experiment exploring man's role and 
 featured_image: '/images/SSProjImg.jpg'
 ---
 
-<p align="center"><img src="/images/SSProjImg.jpg"></p>
-
 ## The Exhibit
+
+<p align="center"><img src="/images/SSProjImg.jpg"></p>
 
 LIVING EXHIBIT - MYCELIUM
 
