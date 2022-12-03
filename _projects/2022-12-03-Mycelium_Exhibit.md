@@ -3,7 +3,7 @@ title: 'Living Exhibit - Mycelium'
 subtitle: 'Self Study - ATLAS, CU Boulder FALL 2022'
 date: 2022-12-03 12:00:00
 description: A reverse, Giving Tree thought-experiment exploring man's role and the effects of regenerating life through death by the cultivation of mycelium
-featured_image: '/images/SSProjImg.jpg' 
+featured_image: '/images/SSProjImg.jpg'
 ---
 
 <p align="center"><img src="/images/SSProjImg.jpg"></p>
@@ -59,7 +59,7 @@ Humidity!!!  Yes, with humidity comes great ability to not see into the exhibit.
 
 Water, water, WATER!  Living things need water, silly!  Well, I didn't think this one through because I expected the close system to keep moisture but that moisture leaks and the biological components also consume that water.  Well, enter the syringe and spone idea to keep things moist and to keep the water from spreading throughout the exhibit.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/yxZ6Z6N"  ><a href="//imgur.com/a/yxZ6Z6N">Water Filling of Exhibit for Final Project</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<p-align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/yxZ6Z6N"  ><a href="//imgur.com/a/yxZ6Z6N">Water Filling of Exhibit for Final Project</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></p>
 
 ## Mycelium
 
