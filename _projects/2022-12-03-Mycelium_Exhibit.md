@@ -6,9 +6,9 @@ description: A reverse, Giving Tree thought-experiment exploring man's role and 
 featured_image: '/images/SSProjImg.jpg'
 ---
 
-## The Exhibit
-
 <p align="center"><img src="/images/SSProjImg.jpg"></p>
+
+## The Exhibit
 
 LIVING EXHIBIT - MYCELIUM
 
@@ -26,6 +26,9 @@ Coming up with the idea for this self-study project...
 
 ## Applied Technologies
 
+FastLED for water-resistant flickering LED lamps and used a standard blacklight LED strip to create a glow to the exhibit.
+
+Glow-in-the-dark PLA with 3d prnting and designs
 
 ## Lessons Learned
 
@@ -36,7 +39,7 @@ Coming up with the idea for this self-study project...
 ## Final Design
 
 
-<p align="center"><iframe width="560" height="315" src="https://youtu.be/YxUHmWEUOl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YxUHmWEUOl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What the Future Brings
 
