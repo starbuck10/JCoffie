@@ -92,4 +92,4 @@ This experiment wouldn't have been possible without the help of a group of reall
 
 Thank you to <a href ="https://www.colorado.edu/atlas/netta-ofer">Netta Offer </a> for her guidance and advice in the biological component of the build - our conversations were instrumental in conducting my first mycelium project and it was such a pleasure.  Thanks and I hope we get to work together on projects again in the future!
 
-And finally, I'd also like to thank my resident scientist, progress photography, psychologist, and wife Kimberly, for the late night conversations and helping me craft the story of this thought experiment.  Thanks, sweetie!
+And finally, I'd also like to thank my resident scientist, progress photography, psychologist, and wife Kimberly, for the late night conversations and helping me craft the story of this thought experiment.  Thanks, sweetie! /J
