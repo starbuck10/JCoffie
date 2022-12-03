@@ -1,10 +1,12 @@
 ---
 title: 'Living Exhibit - Mycelium'
-subtitle: 'ATLAS, CU Boulder FALL 2022'
+subtitle: 'Self Study - ATLAS, CU Boulder FALL 2022'
 date: 2022-12-03 12:00:00
 description: A reverse, Giving Tree thought-experiment exploring man's role and the effects of regenerating life through death by the cultivation of mycelium
 featured_image: '/images/SSProjImg.jpg'
 ---
+
+<p align="center"><img src="/images/SSProjImg.jpg"></p>
 
 ## The Exhibit
 
