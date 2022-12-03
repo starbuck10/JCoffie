@@ -2,7 +2,7 @@
 title: 'Experimental Textiles'
 subtitle: 'Weekly Exploration into Experimental Textiles'
 date: 2022-08-24 12:00:00
-description: This is the documentation of my exploration through experimental fabrics
+description: This is the documentation of my exploration through experimental fabrics.
 featured_image: '/images/sweater.jpg'
 ---
 
