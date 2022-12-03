@@ -18,7 +18,7 @@ A living diorama/terrarium that incorporates biological life, 3d printing, and a
 Mushrooms grow to fantastical heights, changing the landscape...
 And death and decay return our world to life...</em>
 
-A reverse, "Giving Tree" thought-experiment exploring man's role and the effects of regenerating life through death by the cultivation of mycelium.
+A reverse, "<a href="https://www.shelsilverstein.com/9780060256654/the-giving-tree/">Giving Tree</a>" thought-experiment exploring man's role and the effects of regenerating life through death by the cultivation of mycelium.
 
 ## Background and Inspiration
 
