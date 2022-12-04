@@ -59,7 +59,7 @@ After initial installation, it was quickly apparent that fans and circulation wo
 
 Water, although present in the display, quickly became vapor and condensate that leaked through the holes in the display that I used to create circulation.  I didn't think this consequence through and I expected the the initially closed system to keep retaining moisture.  By using a large syringe, a small bowl shape in the clay, and a natural sponge to keep things moist, I was able to provide enough moisture to the mycelium while also keeping the water from spreading throughout the rest of the exhibit, while simultaneously clearing the glass of unwanted condensate.
 
-<p-align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/yxZ6Z6N"  ><a href="//imgur.com/a/yxZ6Z6N">Water Filling of Exhibit for Final Project</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/yxZ6Z6N"  ><a href="//imgur.com/a/yxZ6Z6N">Water Filling of Exhibit for Final Project</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Mycelium
 
