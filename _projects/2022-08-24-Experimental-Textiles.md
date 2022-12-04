@@ -403,7 +403,7 @@ After immersion in water, we find that the textile loses structural integrity an
 
 <p align="center"><img src="/images/final9.png"></p>
 
-If you’re interested in learning more, visit the timed video recordings of this exploration at the following link: https://youtu.be/iMxiHSeXcjQ. The final results of both tests are below:
+If you’re interested in learning more, visit the timed video recordings of this exploration at the following <a href="https://youtu.be/iMxiHSeXcjQ">link</a>. The final results of both tests are below:
 
 <p align="center"><img src="/images/final10.jpg"></p>
 
