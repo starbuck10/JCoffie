@@ -354,12 +354,13 @@ As a reminder of the midterm results, here is what happened when the samples wer
 <p align="center"><img src="/images/final1.png"></p>
 
 These are the structures that I used in that testing exercise (in order of appearance):
-
-Swatch 1: Floating wefts, using the dissolving thread
-Swatch 2: Floating cotton wefts (to hold structure together after dissolving thread)
-Swatch 3: Tabby Weave with conductive yarn
-Swatch 4: Twill
-Swatch 5: Tabby
+<ol>
+  <li>Swatch 1: Floating wefts, using the dissolving thread</li>
+  <li>Swatch 2: Floating cotton wefts (to hold structure together after dissolving thread)</li>
+  <li>Swatch 3: Tabby Weave with conductive yarn</li>
+  <li>Swatch 4: Twill</li>
+  <li>Swatch 5: Tabby</li>
+</ol>
 
 In the end, my approach, whether double or single weave, is to create some supplemental warps, in concert with dissolvable wefts, to see if I can create a textile that will fall apart and lose its structural integrity after being exposed to the water.  I think this will also be helpful with rounding out my heuristic on measuring how long it takes for differing structures to dissolve in water when using dissolvable yarn.  I haven’t completely thought through the applications of this experimentation but I am excited to be inspired by the results.
 
