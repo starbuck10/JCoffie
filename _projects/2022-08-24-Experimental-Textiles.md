@@ -339,7 +339,7 @@ After completing this assignment, I really enjoyed playing with the different st
 
 ## Final project
 
-What I am setting out to do:
+<b>What I am setting out to do:</b>
 
 <em>Assignment Details: This deliverable is almost identical to the midterm in that you will turn in via canvas a weekly-style reflection on the part of your project completed between the midterm and findings. Use the weekly template to describe the process of your final. Your documentation should include photos of at least three swatches that you created as you worked on the final (created after the midterm) as well as the drafts for those swatches.
 Identify at least three key decision points in your process where you changed plans, tried something new, or developed a new approach to optimize your swatch towards your heuristic.
@@ -368,7 +368,7 @@ In the end, my approach, whether double or single weave, is to create some suppl
 
 <em>Update: I think this needs to be a double layered textile as much as I’ve been avoiding it.  The idea of creating something like that is incredibly intimidating to me and I don’t have a full understanding of how it works although I’ve watched hours of videos on it.  I think it’s best that I take this approach and just keep staring at it but I will start out building my confidence with some tear-away cloth in a single dimension (note: change 1, discussed below). I’m thinking that it really needs to be a bracelet or something that can be worn for demonstrative and application purposes.</em>
 
-Process Notes
+<b>Process Notes</b>
 
 For this project, I’m exclusively using the cricket loom - a table top, direct tie-up loom built by Schacht Spindle, located here in Boulder, CO.  I chose this loom due to my inability to access the wolf 8-shaft and other larger looms and to give myself time to experiment and work through what I want this project to be.  However, I need to build some confidence and find that using single-layer textiles is the best thing for me at the moment, so that’s where I started in the project.  Let’s take a look at the setup:
 
@@ -419,7 +419,7 @@ Figure 8: Dissolved Final Product
 
 If you’re interested in learning more, visit the timed video recordings of this exploration at the following link: https://youtu.be/iMxiHSeXcjQ. The final results of both tests are below:
 
-<p align="center"><img src="/images/final10.png"></p>
+<p align="center"><img src="/images/final10.jpg"></p>
 
 Figure 9: Results of Testing for Single and Double Layer Cloth Interlaced with Dissolvable Yarn
 
