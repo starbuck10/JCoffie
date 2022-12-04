@@ -354,8 +354,6 @@ As a reminder of the midterm results, here is what happened when the samples wer
 
 <p align="center"><img src="/images/final1.png"></p>
 
-Figure 1: Results of Midterm Sample Testing
-
 These are the structures that I used in that testing exercise (in order of appearance):
 
 Swatch 1: Floating wefts, using the dissolving thread
@@ -374,19 +372,15 @@ For this project, I’m exclusively using the cricket loom - a table top, direct
 
 <p align="center"><img src="/images/final2.jpg"></p>
 
-Figure 2: Loom Setup (Yes, that’s one of my daughters with her DIY book-loom #ProudDad)
+(Yes, that’s one of my daughters with her DIY book-loom #ProudDad)
 
 From the previous exercise, I knew that I produced quite a few differing structures for testing but I was having trouble thinking of how to elevate this project from the midterm.  The first couple of samples I produced were simple but I knew deep down that I really needed to produce some double-woven structures for this application and so I began to double weave a tubular structure (insert change 1 here).  The reason I decided to go this route was because I knew it was something I was avoiding (a true test that you know you need to learn something and are just being difficult with yourself about it) and because the application of a wearable textile requires that the object have some form of wrapping capability to demonstrate that it can truly tear-away.  Here is what I designed using a plain double-weave within ADACAD.
 
 <p align="center"><img src="/images/final3.jpg"></p>
 
-Figure 3: ADACAD Draft Demonstrating the Overall Design of the Textile
-
 The double-weave pattern, conceptualized, looks like this:
 
 <p align="center"><img src="/images/final4.png"></p>
-
-Figure 4: Tubular Double Weave, Profile View
 
 Following a very frustrating evening of creating said double-weave, my sample fell apart as I was trying to complete it by sewing and binding the ends, due to its small size.  I gave up at this point and decided I needed some assistance but I was certain I was on the correct path.
 
@@ -396,38 +390,26 @@ The result was a conversation with Dr. Laura Devendorf (Director of the Unstable
 
 <p align="center"><img src="/images/final5.jpg"></p>
 
-Figure 5: Applying Hobby Glue to Textile to Bind Ends for Sample Testing
-
 The resulting samples are bracelet sized and are bound only at the edges, creating a successful tubular structure for my first swatch.  Following that swatch, however, I noticed that the structure was beaten really tightly so that the warp and weft were sandwiched tightly together.  On the second swatch, I kept it the same structure, but used less force while beating, resulting in a much more uniform structure that may respond better to testing as the yarns are not as compacted.
 
 <p align="center"><img src="/images/final6.jpg"></p>
-
-Figure 6: Final Woven Sample
 
 As this assignment requires two swatches to be made, I had to use my original third swatch to do the sample testing.  Surprisingly, the sample took twice as long as the single layer cloths to unravel.  The results, however, still demonstrate that the textile is capable of losing its structural integrity if both a dissolvable warp and weft are used.  In the end, the testing took  nearly 60 seconds to complete and required a lot of manual manipulation to fully dissolve.  However, the results are encouraging that this type of sample is possible, it may just take a few more iterations of design to fully realize.  
 
 <p align="center"><img src="/images/final7.jpg"></p>
 p align="center"><img src="/images/final8.jpg"></p>
 
-Figure 7: Dissolvable Double-weave [Full] and Swatch Sample Dissolvable View
-
 After immersion in water, we find that the textile losing structural integrity and unravels.
 
 <p align="center"><img src="/images/final9.png"></p>
-
-Figure 8: Dissolved Final Product
 
 If you’re interested in learning more, visit the timed video recordings of this exploration at the following link: https://youtu.be/iMxiHSeXcjQ. The final results of both tests are below:
 
 <p align="center"><img src="/images/final10.jpg"></p>
 
-Figure 9: Results of Testing for Single and Double Layer Cloth Interlaced with Dissolvable Yarn
-
 The last thing I’d like to share is the user testing that demonstrated that this can be worn by a human.  Unfortunately, she was very hesitant to return it after testing.
 
 <p align="center"><img src="/images/final11.jpg"></p>
-
-Figure 10: Human Trial Testing of Textile
 
 Reflection
 
