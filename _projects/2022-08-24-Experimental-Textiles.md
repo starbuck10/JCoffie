@@ -8,8 +8,7 @@ featured_image: '/images/sweater.jpg'
 
 ## Weekly 1 - Learning how to Document Textiles
 
-For my documentation setup, I’m going to use my desk (image 1) to lay out my prototypes and textiles for documentation by relocating the printer (and fan) - I have overhead light in this space underneath the shelving as well as accent lighting and controllable natural light, so it’s ideal for this process.  I also purchased a 20x macro lens to get close-up images and the kit came with a couple of other lens that I can use to see if they will help with the documentation process as well (link: shorturl.at/bhmU0).  I have found that this setup is quite tempormental so
-I may need to switch to the macro lens on a DSLR in future weeklies.
+For my documentation setup, I’m going to use my desk (image 1) to lay out my prototypes and textiles for documentation by relocating the printer (and fan) - I have overhead light in this space underneath the shelving as well as accent lighting and controllable natural light, so it’s ideal for this process.  I also purchased a 20x macro lens to get close-up images and the kit came with a couple of other lens that I can use to see if they will help with the documentation process as well (link: shorturl.at/bhmU0).  I have found that this setup is quite temperamental so I may need to switch to the macro lens on a DSLR in future weeklies.
 
 <p align="center"><img src="/images/weekly1_1.jpeg"></p>
 
@@ -340,4 +339,96 @@ After completing this assignment, I really enjoyed playing with the different st
 
 ## Final project
 
-COMING SOON!  More development with the dissolvable thread, just with double weave this time.  Stay tuned! 
+What I am setting out to do:
+
+Assignment Details: This deliverable is almost identical to the midterm in that you will turn in via canvas a weekly-style reflection on the part of your project completed between the midterm and findings. Use the weekly template to describe the process of your final. Your documentation should include photos of at least three swatches that you created as you worked on the final (created after the midterm) as well as the drafts for those swatches.
+Identify at least three key decision points in your process where you changed plans, tried something new, or developed a new approach to optimize your swatch towards your heuristic.
+
+Identify at least three key decision points in your process where you changed plans, tried something new, or developed a new approach to optimize your swatch towards your heuristic. Describe these in writing. This is the primary place in the assignment where I will grade you on your decisions so provide strong reasoning for why you tried different techniques at different times.
+
+Include a reflection at the end of the documentation about what you would still like to try or what you think you should have done differently.
+
+For the final, my goal was to take the midterm and expand upon the concepts and learnings therein.  The result of this goal is that I’d like to see if I can create a “tear-away” textile that is activated with water.  I’m not completely sure if this will be something wearable or a conceptual fabric, but I think it makes sense to continue the learnings of the midterm in this direction.  I contemplated doing a double-weave but I’m fairly intimidated by the affair and whatever I fully decide to do, it will need to be on the cricket loom as I will not have the flexibility, nor the energy, to head into the lab to use the larger looms for this project.  
+
+As a reminder of the midterm results, here is what happened when the samples were exposed to water for approximately 30 seconds:
+
+<p align="center"><img src="/images/final1.png"></p>
+
+Figure 1: Results of Midterm Sample Testing
+
+These are the structures that I used in that testing exercise (in order of appearance):
+
+Swatch 1: Floating wefts, using the dissolving thread
+Swatch 2: Floating cotton wefts (to hold structure together after dissolving thread)
+Swatch 3: Tabby Weave with conductive yarn
+Swatch 4: Twill
+Swatch 5: Tabby
+
+In the end, my approach, whether double or single weave, is to create some supplemental warps, in concert with dissolvable wefts, to see if I can create a textile that will fall apart and lose its structural integrity after being exposed to the water.  I think this will also be helpful with rounding out my heuristic on measuring how long it takes for differing structures to dissolve in water when using dissolvable yarn.  I haven’t completely thought through the applications of this experimentation but I am excited to be inspired by the results.
+
+Update: I think this needs to be a double layered textile as much as I’ve been avoiding it.  The idea of creating something like that is incredibly intimidating to me and I don’t have a full understanding of how it works although I’ve watched hours of videos on it.  I think it’s best that I take this approach and just keep staring at it but I will start out building my confidence with some tear-away cloth in a single dimension (note: change 1, discussed below). I’m thinking that it really needs to be a bracelet or something that can be worn for demonstrative and application purposes.
+
+Process Notes
+
+For this project, I’m exclusively using the cricket loom - a table top, direct tie-up loom built by Schacht Spindle, located here in Boulder, CO.  I chose this loom due to my inability to access the wolf 8-shaft and other larger looms and to give myself time to experiment and work through what I want this project to be.  However, I need to build some confidence and find that using single-layer textiles is the best thing for me at the moment, so that’s where I started in the project.  Let’s take a look at the setup:
+
+<p align="center"><img src="/images/final2.jpg"></p>
+
+Figure 2: Loom Setup (Yes, that’s one of my daughters with her DIY book-loom #ProudDad)
+
+From the previous exercise, I knew that I produced quite a few differing structures for testing but I was having trouble thinking of how to elevate this project from the midterm.  The first couple of samples I produced were simple but I knew deep down that I really needed to produce some double-woven structures for this application and so I began to double weave a tubular structure (insert change 1 here).  The reason I decided to go this route was because I knew it was something I was avoiding (a true test that you know you need to learn something and are just being difficult with yourself about it) and because the application of a wearable textile requires that the object have some form of wrapping capability to demonstrate that it can truly tear-away.  Here is what I designed using a plain double-weave within ADACAD.
+
+<p align="center"><img src="/images/final3.jpg"></p>
+
+Figure 3: ADACAD Draft Demonstrating the Overall Design of the Textile
+
+The double-weave pattern, conceptualized, looks like this:
+
+<p align="center"><img src="/images/final4.png"></p>
+
+Figure 4: Tubular Double Weave, Profile View
+
+Following a very frustrating evening of creating said double-weave, my sample fell apart as I was trying to complete it by sewing and binding the ends, due to its small size.  I gave up at this point and decided I needed some assistance but I was certain I was on the correct path.
+
+Following class, some heated discussion on how frustrating double-weaving is when you’re  first starting out, and a lengthy read in Jane Patrick’s “The Weaver’s Ideabook,” I decided to re-warp the loom and begin again.  This time, I knew that I would figure it out and would find that I could create a worthy sample.
+
+The result was a conversation with Dr. Laura Devendorf (Director of the Unstable Design Lab), Etta Sandra (Resident Artist of the Unstable Design Lab), and Dover Horesh (fellow foxhole compatriot in the class) that got my brain spinning on ways to bind the ends of fabric that would still be dissolvable.  Change 2, my decision to use hobby glue, was the saving grace behind keeping such a small fabric, especially created on a cricket loom without a beater.  The result is below:
+
+<p align="center"><img src="/images/final5.jpg"></p>
+
+Figure 5: Applying Hobby Glue to Textile to Bind Ends for Sample Testing
+
+The resulting samples are bracelet sized and are bound only at the edges, creating a successful tubular structure for my first swatch.  Following that swatch, however, I noticed that the structure was beaten really tightly so that the warp and weft were sandwiched tightly together.  On the second swatch, I kept it the same structure, but used less force while beating, resulting in a much more uniform structure that may respond better to testing as the yarns are not as compacted.
+
+<p align="center"><img src="/images/final6.jpg"></p>
+
+Figure 6: Final Woven Sample
+
+As this assignment requires two swatches to be made, I had to use my original third swatch to do the sample testing.  Surprisingly, the sample took twice as long as the single layer cloths to unravel.  The results, however, still demonstrate that the textile is capable of losing its structural integrity if both a dissolvable warp and weft are used.  In the end, the testing took  nearly 60 seconds to complete and required a lot of manual manipulation to fully dissolve.  However, the results are encouraging that this type of sample is possible, it may just take a few more iterations of design to fully realize.  
+
+<p align="center"><img src="/images/final7.jpg"></p>
+p align="center"><img src="/images/final8.jpg"></p>
+
+Figure 7: Dissolvable Double-weave [Full] and Swatch Sample Dissolvable View
+
+After immersion in water, we find that the textile losing structural integrity and unravels.
+
+<p align="center"><img src="/images/final9.png"></p>
+
+Figure 8: Dissolved Final Product
+
+If you’re interested in learning more, visit the timed video recordings of this exploration at the following link: https://youtu.be/iMxiHSeXcjQ. The final results of both tests are below:
+
+<p align="center"><img src="/images/final10.png"></p>
+
+Figure 9: Results of Testing for Single and Double Layer Cloth Interlaced with Dissolvable Yarn
+
+The last thing I’d like to share is the user testing that demonstrated that this can be worn by a human.  Unfortunately, she was very hesitant to return it after testing.
+
+<p align="center"><img src="/images/final11.jpg"></p>
+
+Figure 10: Human Trial Testing of Textile
+
+Reflection
+
+It may sound foolish but I’m really proud of myself for doing this assignment as I originally intended instead of being bullied by my fear of double weaving.  I feel accomplished from the exercise and eager to begin weaving more complex structures in the future.  One area that I would certainly revisit on this assignment in the future is the yarn weight/thickness and the material used in concert with the dissolvable thread.  I found that the thickness of the dissolvable yarn could be causing too much material to bleed into surrounding yarns and this causes a gluing effect that will need to be overcome.  Further, the surrounding yarns, if porous or exhibiting grabbing effects on the dissolvable yarn, should be replaced with more suitable fiber that is less likely to absorb the plant sugar that the dissolvable thread is made out of, resulting in a more seamless “pull-away” effect.
