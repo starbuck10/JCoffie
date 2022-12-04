@@ -345,8 +345,7 @@ After completing this assignment, I really enjoyed playing with the different st
 
 <em>Identify at least three key decision points in your process where you changed plans, tried something new, or developed a new approach to optimize your swatch towards your heuristic.</em>
 
-<em>
-Include a reflection at the end of the documentation about what you would still like to try or what you think you should have done differently. </em>
+<em>Include a reflection at the end of the documentation about what you would still like to try or what you think you should have done differently. </em>
 
 For the final, my goal was to take the midterm and expand upon the concepts and learnings therein.  The result of this goal is that I’d like to see if I can create a “tear-away” textile that is activated with water.  I’m not completely sure if this will be something wearable or a conceptual fabric, but I think it makes sense to continue the learnings of the midterm in this direction.  I contemplated doing a double-weave but I’m fairly intimidated by the affair and whatever I fully decide to do, it will need to be on the cricket loom as I will not have the flexibility, nor the energy, to head into the lab to use the larger looms for this project.  
 
