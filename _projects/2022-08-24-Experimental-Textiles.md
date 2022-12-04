@@ -341,11 +341,11 @@ After completing this assignment, I really enjoyed playing with the different st
 
 <b>What I am setting out to do:</b>
 
-<em>Assignment Details: This deliverable is almost identical to the midterm in that you will turn in via canvas a weekly-style reflection on the part of your project completed between the midterm and findings. Use the weekly template to describe the process of your final. Your documentation should include photos of at least three swatches that you created as you worked on the final (created after the midterm) as well as the drafts for those swatches.
-Identify at least three key decision points in your process where you changed plans, tried something new, or developed a new approach to optimize your swatch towards your heuristic.
+<em>Assignment Details: This deliverable is almost identical to the midterm in that you will turn in via canvas a weekly-style reflection on the part of your project completed between the midterm and findings. Use the weekly template to describe the process of your final. Your documentation should include photos of at least three swatches that you created as you worked on the final (created after the midterm) as well as the drafts for those swatches.</em>
 
-Identify at least three key decision points in your process where you changed plans, tried something new, or developed a new approach to optimize your swatch towards your heuristic. Describe these in writing. This is the primary place in the assignment where I will grade you on your decisions so provide strong reasoning for why you tried different techniques at different times.
+<em>Identify at least three key decision points in your process where you changed plans, tried something new, or developed a new approach to optimize your swatch towards your heuristic.</em>
 
+<em>
 Include a reflection at the end of the documentation about what you would still like to try or what you think you should have done differently. </em>
 
 For the final, my goal was to take the midterm and expand upon the concepts and learnings therein.  The result of this goal is that I’d like to see if I can create a “tear-away” textile that is activated with water.  I’m not completely sure if this will be something wearable or a conceptual fabric, but I think it makes sense to continue the learnings of the midterm in this direction.  I contemplated doing a double-weave but I’m fairly intimidated by the affair and whatever I fully decide to do, it will need to be on the cricket loom as I will not have the flexibility, nor the energy, to head into the lab to use the larger looms for this project.  
@@ -364,7 +364,7 @@ Swatch 5: Tabby
 
 In the end, my approach, whether double or single weave, is to create some supplemental warps, in concert with dissolvable wefts, to see if I can create a textile that will fall apart and lose its structural integrity after being exposed to the water.  I think this will also be helpful with rounding out my heuristic on measuring how long it takes for differing structures to dissolve in water when using dissolvable yarn.  I haven’t completely thought through the applications of this experimentation but I am excited to be inspired by the results.
 
-<em>Update: I think this needs to be a double layered textile as much as I’ve been avoiding it.  The idea of creating something like that is incredibly intimidating to me and I don’t have a full understanding of how it works although I’ve watched hours of videos on it.  I think it’s best that I take this approach and just keep staring at it but I will start out building my confidence with some tear-away cloth in a single dimension (note: change 1, discussed below). I’m thinking that it really needs to be a bracelet or something that can be worn for demonstrative and application purposes.</em>
+<em>Update: I think this needs to be a double layered textile as much as I’ve been avoiding it.  The idea of creating something like that is incredibly intimidating to me and I don’t have a full understanding of how it works although I’ve watched hours of videos on it.  I think it’s best that I take this approach and just keep staring at it but I will start out building my confidence with some tear-away cloth in a single dimension (note: change 1, discussed below). I’m thinking that it really needs to be a bracelet or something that can be worn for demonstrative and application purposes. </em>
 
 <b>Process Notes</b>
 
