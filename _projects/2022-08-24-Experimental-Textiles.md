@@ -399,7 +399,7 @@ As this assignment requires two swatches to be made, I had to use my original th
 <p align="center"><img src="/images/final7.jpg"></p>
 p align="center"><img src="/images/final8.jpg"></p>
 
-After immersion in water, we find that the textile losing structural integrity and unravels.
+After immersion in water, we find that the textile loses structural integrity and unravels.
 
 <p align="center"><img src="/images/final9.png"></p>
 
