@@ -336,4 +336,8 @@ If you’re interested in learning more, visit the timed video recordings of thi
 
 <b>Reflection</b>
 
-After completing this assignment, I really enjoyed playing with the different structure and seeing how they behave.  In the future, I’d like to look at changing up the warp to something a little less “grippy”, perhaps recycled plastic, and see if the slick warp fibers would behave like the bonded warp yarns did from the cotton fibers.  Another area I’d like to try exploring if I continued with this experiment would be to see how directed hydration affects structure and if target dissolution of the fabric can be achieved.  
+After completing this assignment, I really enjoyed playing with the different structure and seeing how they behave.  In the future, I’d like to look at changing up the warp to something a little less “grippy”, perhaps recycled plastic, and see if the slick warp fibers would behave like the bonded warp yarns did from the cotton fibers.  Another area I’d like to try exploring if I continued with this experiment would be to see how directed hydration affects structure and if target dissolution of the fabric can be achieved.
+
+## Final project
+
+COMING SOON!  More development with the dissolvable thread, just with double weave this time.  Stay tuned! 
