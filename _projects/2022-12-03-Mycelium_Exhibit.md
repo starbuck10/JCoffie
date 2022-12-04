@@ -46,32 +46,32 @@ Water: Syringe and living sponge
 
 Construction methods: Hand-sculpted clay, drill press for impregnating log with mycelium spores, poly-fill for filtration, acrylic top using glue gun to hold components in place, acrylics and airbrush/hand brushing to add detail, and a large, 550 mL catheter syringe and surgical tubing to add water to display without contamination
 
-Arduino: two fans to control humidity levels and code to run lighting - here is the code if you'd like to see it!
+Arduino: two fans to control humidity levels and code to run lighting - here is the code used to run the system.  The fans are controlled through a direct 5v power connection on the bread board as their max speed is the ideal airflow condition for growth
 
 <p align="center"><img src="/images/arduino_code.jpg"></p>
 
 ## Lessons Learned
 
-Humidity!!!  Yes, with humidity comes great ability to not see into the exhibit.  After initial installation, it was quickly apparent that fans and circulation would also need to be installed and the layout of the top of the tank decided on quickly.  Enter the display lid and backside cord management to make room for the circulating 5v fans (1x in, 1x out).
+After initial installation, it was quickly apparent that fans and circulation would also need to be installed as the humid environment in a stagnant space quickly led to condensate around the entire display.  This also mean that the layout of the top of the tank decided would also have to be decided on quickly.  By snaking the black light LEDs around the acrylic lid and relocating/securing the bread board and Arduino, I was able to make room for the fan components and reduce the number of 120v plugs down to 2 to present the display, even though I added two more pieces of equipment to the mix.
 
 <p align="center"><img src="/images/top of tank.png"></p>
 <p align="center"><img src="/images/back of tank edited.png"></p>
 
-Water, water, WATER!  Living things need water, silly!  Well, I didn't think this one through because I expected the close system to keep moisture but that moisture leaks and the biological components also consume that water.  Well, enter the syringe and natural sponge idea to keep things moist and to keep the water from spreading throughout the exhibit.
+Water, although present in the display, quickly became vapor and condensate that leaked through the holes in the display that I used to create circulation.  I didn't think this consequence through and I expected the the initially closed system to keep retaining moisture.  By using a large syringe, a small bowl shape in the clay, and a natural sponge to keep things moist, I was able to provide enough moisture to the mycelium while also keeping the water from spreading throughout the rest of the exhibit, while simultaneously clearing the glass of unwanted condensate.
 
 <p-align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/yxZ6Z6N"  ><a href="//imgur.com/a/yxZ6Z6N">Water Filling of Exhibit for Final Project</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></p>
 
 ## Mycelium
 
-Growing the mycelium was AWESOME.  It was a really neat process and I was able to experiment with silicon molds as well as different substrates to help the organism grow.  I decided to use both blue and pink oyster mushrooms for this exhibit and ended up using the pink within the display.  When the UV lights are off, you can actually see the pink mycelium spreading throughout the tank.  Here are some images of the mycelium as it began to grow!
+Growing the mycelium was AWESOME.  It was a really neat process and I was able to experiment with silicon molds as well as different substrates to help the organism grow.  I decided to use both blue and pink oyster mushrooms for this exhibit and ended up using the pink within the display.  When the UV lights are off, you can actually see the pink mycelium spreading throughout the tank.  Here are some images of the mycelium as it began to grow.
 
-And finally, this is what my collection looks like today with the rest of the leftover growth not used in the exhibit.  Just giving them a few more weeks to take hold and see what we discover before planting the excess for fruit!  Woohoo!  
+Finally, this is what my mycelium collection looks like today with the rest of the leftover growth not used in the exhibit.  I will give them a few more weeks before relocating them to experiment with fruiting
 
 <p align="center"><img src="/images/DSC_0498.JPG"></p>
 <p align="center"><img src="/images/IMG_2990.jpeg"></p>
 <p align="center"><img src="/images/IMG_2997.jpeg"></p>
 
-Of note, I did just clean out the plain silicon molds after discovering they didn't take root as much as I had hoped.  Oh well!  Now I have room for the next project!
+Of note, I cleaned the cylindrical, silicon molds after discovering they didn't take root as much as I had hoped.
 
 <p align="center"><img src="/images/IMG_2999.jpeg"></p>
 <p align="center"><img src="/images/IMG_2998.jpeg"></p>
@@ -84,7 +84,7 @@ Here it is!
 
 ## What the Future Brings
 
-This exhibit is designed to grow over time and for an observer to capture but a moment in its life.  I hope to keep it growing over the next few months and present at the ATLAS EXPO 2023 in the Spring.  Feel free to join us there if you'd like to see what we've all been up to lately!
+This exhibit is designed to grow over time and for an observer to capture but a moment in its life.  I hope to keep it growing over the next few months and present at the ATLAS EXPO 2023 in the Spring.  Feel free to join us there if you'd like to see what we've all been up to lately.
 
 ## Acknowledgements
 
