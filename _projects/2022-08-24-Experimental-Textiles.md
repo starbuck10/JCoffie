@@ -432,3 +432,5 @@ Figure 10: Human Trial Testing of Textile
 Reflection
 
 It may sound foolish but I’m really proud of myself for doing this assignment as I originally intended instead of being bullied by my fear of double weaving.  I feel accomplished from the exercise and eager to begin weaving more complex structures in the future.  One area that I would certainly revisit on this assignment in the future is the yarn weight/thickness and the material used in concert with the dissolvable thread.  I found that the thickness of the dissolvable yarn could be causing too much material to bleed into surrounding yarns and this causes a gluing effect that will need to be overcome.  Further, the surrounding yarns, if porous or exhibiting grabbing effects on the dissolvable yarn, should be replaced with more suitable fiber that is less likely to absorb the plant sugar that the dissolvable thread is made out of, resulting in a more seamless “pull-away” effect.
+
+A special thanks to Dr. Laura Devendorf and the rest of the Unstable Lab for their help and support learning how to weave this semester.  I truly hope I have the opportunity to work with each of you again in the near future! /J
