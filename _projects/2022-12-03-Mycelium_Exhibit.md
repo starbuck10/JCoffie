@@ -90,6 +90,6 @@ This exhibit is designed to grow over time and for an observer to capture but a 
 
 This experiment wouldn't have been possible without the help of a group of really smart and talented people.  I'd like to thank Justin Gitlin (<a href="https://cacheflowe.com">Cacheflowe</a>) for advising me in this project and pointing me in the right direction when I found myself stuck.  His insight and advice was invaluable and I am incredibly grateful.  Thanks you, Justin!  
 
-Thank you to <a href ="https://www.colorado.edu/atlas/netta-ofer">Netta Offer </a> for her guidance and advice in the biological component of the build - our conversations were instrumental in conducting my first mycelium project and it was such a pleasure.  Thanks and I hope we get to work together on projects again in the future!
+Thank you to <a href ="https://www.colorado.edu/atlas/netta-ofer">Netta Ofer </a> for her guidance and advice in the biological component of the build - our conversations were instrumental in conducting my first mycelium project and it was such a pleasure.  Thanks and I hope we get to work together on projects again in the future!
 
 And finally, I'd also like to thank my resident scientist, progress photography, psychologist, and wife Kimberly, for the late night conversations and helping me craft the story of this thought experiment.  Thanks, sweetie! /J
