@@ -9,7 +9,6 @@ featured_image: '/images/booch_image.png'
 ## The Reactor
 
 Due to my interest in joining the <a href="https://www.colorado.edu/atlas/living-matter-lab"> Living Matter Lab </a> as a PhD Student next fall, the Director of the lab, <a href="https://www.colorado.edu/atlas/mirela-alistar">Dr. Mirela Alistar</a> and <a href="https://www.colorado.edu/atlas/fiona-bell"> Fiona Bell</a>, a PhD candidate in the lab, were kind enough to let me help out on some work they're looking to wrap up, allowing me to expand my portfolio of designing applications for lab research findings.  One of those projects, after much deliberation, was to create a Kombucha BioReactor, a device that monitors as well as interacts with the observer, allowing the observer to hear changes in the lifecycle of the organism.  Right away, I was sold on the idea and excited to dive in.  In the spirit of final product first, here you go:
-
 <p align="center"><img src="/images/boochReactor.png"></p>
 
 ## Background and Inspiration
@@ -23,11 +22,9 @@ The other main consideration was how to relate this iteration of a BioReactor in
 As I've only worked with non-SDA/SCL dependent sensors in the past, or was able to only use a single device on a build instead of multiple, I had no idea how much of a headache I was walking into for the Si7021 and TSL2561 sensors from Sparkfun but set off to get these sensors sending data over the terminal as quickly as possible.  Frankly, the documentation is quite dated on these sensors and not entirely helpful. Although the walkthroughs are generally quite helpful, the walkthroughs on these sensors were quite the opposite - no issue getting a sensor to work on its own, but use the I2C bus information provided by SparkFun and you were going nowhere fast.  Thankfully, with the help of <a href="https://www.colorado.edu/atlas/mary-etta-west">Mary Etta West</a>, my guardian angel and a PhD student at ATLAS, we were able to get the code to work to integrate the sensors on the bus.  Lesson learned from this project?  Always have a former SparkFun engineer by your side when things get tough.
 
 Here is how it's all wired up!
-
 <p align="center"><img src="/images/boochSchematic.png"></p>
 
 Wiring Diagram of the build.
-
 <p align="center"><img src="/images/reactorInnards.png"></p>
 
 After labeling each wire and wrapping in shrink-wrap, they were fed into the box and connected to the breadboard within.
@@ -37,9 +34,7 @@ After labeling each wire and wrapping in shrink-wrap, they were fed into the box
 The sensors themselves are hot-glued to the top of the acrylic lid, with the light sensor directed directly downward to monitor light intensity on the scoby itself.  The temp/humidity sensor was angled toward the jar lid and protected as much as possible from any moisture exposure.  Both sensors have hot glue covering wire connection points to help minimize corrosion as well.  
 
 <p align="center"><img src="/images/reactorLid.png"></p>
-
 The photocell itself is hot-glued to the lid of the box to keep it stable while reading changes in light intensity.
-
 <p align="center"><img src="/images/photocellLid.png"></p>
 
 ## Discussing Code
