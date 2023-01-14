@@ -5,7 +5,6 @@ date: 2023-01-13 12:00:00
 description: Building a BioReactor to grow and monitor the lifecycle of Kombucha
 featured_image: '/images/booch_image.png'
 ---
-
 ## The Reactor
 
 Due to my interest in joining the <a href="https://www.colorado.edu/atlas/living-matter-lab"> Living Matter Lab </a> as a PhD Student next fall, the Director of the lab, <a href="https://www.colorado.edu/atlas/mirela-alistar">Dr. Mirela Alistar</a> and <a href="https://www.colorado.edu/atlas/fiona-bell"> Fiona Bell</a>, a PhD candidate in the lab, were kind enough to let me help out on some work they're looking to wrap up, allowing me to expand my portfolio of designing applications for lab research findings.  One of those projects, after much deliberation, was to create a Kombucha BioReactor, a device that monitors as well as interacts with the observer, allowing the observer to hear changes in the lifecycle of the organism.  Right away, I was sold on the idea and excited to dive in.  In the spirit of final product first, here you go:
@@ -32,7 +31,6 @@ After labeling each wire and wrapping in shrink-wrap, they were fed into the box
 ## Sensor Setup
 
 The sensors themselves are hot-glued to the top of the acrylic lid, with the light sensor directed directly downward to monitor light intensity on the scoby itself.  The temp/humidity sensor was angled toward the jar lid and protected as much as possible from any moisture exposure.  Both sensors have hot glue covering wire connection points to help minimize corrosion as well.  
-
 <p align="center"><img src="/images/reactorLid.png"></p>
 The photocell itself is hot-glued to the lid of the box to keep it stable while reading changes in light intensity.
 <p align="center"><img src="/images/photocellLid.png"></p>
