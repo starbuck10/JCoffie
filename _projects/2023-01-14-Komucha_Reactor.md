@@ -1,7 +1,7 @@
 ---
 title: 'Kombucha BioReactor'
 subtitle: 'Independent Study - Living Matter Lab ATLAS Jan 2023'
-date: 2023-01-14 12:00:00
+date: 2023-01-13 12:00:00
 description: Building a BioReactor to grow and monitor the lifecycle of Kombucha
 featured_image: '/images/booch_image.png'
 ---
