@@ -46,4 +46,5 @@ After two weeks of bashing my head against the wall to get the code to function 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rLRUNepp9hU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Final Image with Scoby, coming soon!
+<p align="center"><img src="/images/final_Reactor.jpg"></p>
+<p align="center"><img src="/images/final_Reactor_View.jpg"></p>
