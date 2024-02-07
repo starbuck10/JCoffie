@@ -21,6 +21,8 @@ Joshua has over six years of experience as a board member of the Boulder County 
 <b>University of Colorado Boulder</b>, <i>MS Creative Technology and Design, Social Impact</i>, May 2023
 <b>United States Military Academy</b>, <i>BS Environmental Geography</i>, 2009
 
+For information on my currently published works, please visit <a href="https://scholar.google.com/citations?user=Nez43X0AAAAJ&hl=en&oi=ao">here</a>a>.
+
 
 ## Personal life
 
