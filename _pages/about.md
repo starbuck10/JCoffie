@@ -9,7 +9,7 @@ featured_image: /images/sail.jpg
 
 ## About Me
 
-Joshua is a first-year PhD student at the Emergent Nanomaterials Lab at the ATLAS Institute at CU Boulder. He works on designing and researching nano-particle tattoo pigments that can be used as injectable biosensors and devices. Currently, he's developing an invisible, permanent sunscreen in the lab that can be applied to a person’s skin, an invisible tattoo, if you will, that he hopes will be used to prevent non-melanoma skin cancer.
+Joshua is a first-year PhD student at the <a href="https://www.emergentnanomaterials.com">Emergent Nanomaterials Lab</a> at the <a href="https://www.colorado.edu/atlas/joshua-coffie">ATLAS Institute</a> at Cthe University of Colorado - Boulder. He researches and designs nano-particles and tattoo pigments that can be used as injectable biosensors and devices. Currently, he's developing an invisible, tattooable, permanent sunscreen that can be used to prevent non-melanoma skin cancer.
 
 Joshua has a master's degree in Creative Technology and Design, with a focus on social impact, from the same institution. 
 
@@ -21,8 +21,7 @@ Joshua has over six years of experience as a board member of the Boulder County 
 <b>University of Colorado Boulder</b>, <i>MS Creative Technology and Design, Social Impact</i>, May 2023
 <b>United States Military Academy</b>, <i>BS Environmental Geography</i>, 2009
 
-For information on my currently published works, please visit <a href="https://scholar.google.com/citations?user=Nez43X0AAAAJ&hl=en&oi=ao">here</a>a>.
-
+For information on my Joshua's published works, please visit <a href="https://scholar.google.com/citations?user=Nez43X0AAAAJ&hl=en&oi=ao">Google Scholar</a>a>.
 
 ## Personal life
 
