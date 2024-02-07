@@ -5,22 +5,22 @@ description:
 featured_image: /images/sail.jpg
 ---
 
-<p align = "center"><img src = "/images/joshua.jpg"></p>
+<p align = "center"><img src = "/images/labPortraitCoffie.jpg"></p>
 
 ## About Me
 
-I love to be at the intersection of humanity, technology, biology, and innovation, where living systems and structures inform the development of new technologies, construction methods, best-practices, and new human interaction - I love to see organic structures in everything I interact with and create and have a passion for discovery and adventure.  I'm currently completing my Master's degree at ATLAS, CU Boulder, and hope to puruse a PhD in Creative Design for materials research, beginning in the Fall of 2023.
+Joshua is a first-year PhD student at the Emergent Nanomaterials Lab at the ATLAS Institute at CU Boulder. He works on designing and researching nano-particle tattoo pigments that can be used as injectable biosensors and devices. Currently, he's developing an invisible, permanent sunscreen in the lab that can be applied to a person’s skin, an invisible tattoo, if you will, that he hopes will be used to prevent non-melanoma skin cancer.
+
+Joshua has a master's degree in Creative Technology and Design, with a focus on social impact, from the same institution. 
+
+Joshua has over six years of experience as a board member of the Boulder County Extension Advisory Committee, where he contributed to the development and implementation of educational programs and services for the community. He is also a decorated veteran, having served an Executive Officer and Aide-de-camp in the US Army, where he earned multiple awards, including the Bronze Star Medal and the Combat Action Badge. Joshua is passionate about people and the environment, and enjoys sailing with his kids and exploring the world in his free time. He is driven by the mission of using his creative and technical abilities to make a positive difference in the world.
 
 ## My Education
 
-<b>University of Colorado Boulder</b>, <i>MS Creative Technology and Design, Social Impact</i>, Anticipated Completion: May 2022
+<b>University of Colorado Boulder</b>, <i>Doctoral Student</i>, Current
+<b>University of Colorado Boulder</b>, <i>MS Creative Technology and Design, Social Impact</i>, May 2023
 <b>United States Military Academy</b>, <i>BS Environmental Geography</i>, 2009
 
-Graduate Coursework at Harvard University  (2014-2020), Software Engineering Department
-User Experience Engineering, Secure Mobile Computing, Cyber World: Governance and Threats, Cloud Security, Agile Software Development, Intro to Data Science, Intro to Probability, Web Content Management Systems, Acceptance and Resistance to Innovation, Big Data, IoT, and Cybersecurity, and Sabremetrics
-
-Graduate Coursework at Norwich University  (2012-2014), Structural Engineering Department
-Engineering Mathematics, Project Management Techniques, Engineering Analysis Techniques, Engineering Mechanics I, Structural Engineering I
 
 ## Personal life
 
