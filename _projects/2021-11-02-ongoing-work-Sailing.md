@@ -8,7 +8,7 @@ featured_image: '/images/sailboat.jpg'
 
 ## The Goal
 
-I love sailing.  And I have a personal goal to own a blue-water sailboat that I can travel the World on.  Who doesn't have that goal, right?  Anyway, I've been working my way through certifications and hands-on experience to make the goal a reality.  Let's see how it's going!
+I love sailing.  And I have a personal goal to own a blue-water sailboat that I can travel the World on when I finally reach retirement age.  Who doesn't have that goal, right?  Anyway, I've been working my way through certifications and hands-on experience to make the goal a reality.  Let's see how it's going!
 
 ---
 
@@ -93,3 +93,17 @@ Alright, got her in the water for this season and boy is she fast!  Here she is!
 First sail results are in.  Woah is she fast.
 
 Second sail results are in.  She's VERY sensitive to the wind.  Capsized her on the second trial day as an oversteer on a tack resulted in the back quarter being exposed to a 30 mph gust.  Due to the sail area, she went over quickly.  Thankfully CPW was nearby and able to help us tow her back in.  Turtle, anyone?...  :-)
+
+---
+
+## Update: Summer 2023
+
+I had the tremendous opportunity to get the combined ASA104/114 certification this summer with the <a href = "https://www.victoriasailingschool.com">Victoria Sailing School</a> and met some really great people along the way.  This course began in Long Beach, CA, where we prepped the 54' Catamaran for our trip to Santa Catalina Island, where we spent the night and returned the next morning.  It was a three day course designed to help students navigate the confusing world of chartering and it was an absolute blast.
+
+Images coming soon.
+
+---
+
+## Update: January 2024 - ASA105 Coastal Navigation
+
+As a pretty spectacular Christmas gift, my wife signed me up to learn coastal navigation from Tibor and his team with the <a href = "https://www.victoriasailingschool.com">Victoria Sailing School</a>.  It's a remote course, designed to help students understand how to navigate in intercoastal waterways, chart and plan trips, and learn to safely maneuver their vessels through unfamiliar waters and less-than-ideal weather conditions.  More to follow soon.
