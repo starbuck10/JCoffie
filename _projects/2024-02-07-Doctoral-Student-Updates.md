@@ -3,7 +3,7 @@ title: 'Doctoral Student Work'
 subtitle: 'Join me in the discovery!'
 date: 2024-02-07 12:00:00
 description: Following along with my Doctoral student work
-featured_image: '
+featured_image: ''
 ---
 ## Introduction
 
